@@ -1,54 +1,220 @@
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Battery Express | باتري إكسبريس - طاقة لا تتوقف</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;800&family=Orbitron:wght@600;900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <header class="hero-section">
-        <div class="glow-container"></div>
-        <div class="content">
-            <div class="brand">
-                <span class="logo-text">BATTERY</span>
-                <span class="logo-accent">EXPRESS</span>
-            </div>
-            <h1 class="main-title">نبض الطاقة والحركة السريعة في <span class="highlight">جدة ومكة</span></h1>
-            <p class="subtitle">تشخيص فوري للبطاريات الحيوية وأنظمة وحافلات الـ CAN-Bus لأحدث موديلات السيارات والآليات الثقيلة.</p>
-            <div class="cta-group">
-                <a href="https://wa.me/966560407321" class="btn btn-primary" target="_blank">طلب فحص وتوصيل فوري</a>
-                <a href="#services" class="btn btn-secondary">استكشاف خدماتنا التقنية</a>
-            </div>
-        </div>
-    </header>
-    <section id="services" class="services-section">
-        <div class="container">
-            <h2 class="section-title">خدمات مدعومة بمنهجية علمية وهندسة دقيقة</h2>
-            <div class="grid">
-                <div class="card">
-                    <div class="card-icon">⚡</div>
-                    <h3>فحص تيار الـ CAN-Bus</h3>
-                    <p>فحص استهلاك الطاقة من وحدات التحكم (ECUs) للموديلات الحديثة لضمان استقرار جهد التشغيل.</p>
-                </div>
-                <div class="card">
-                    <div class="card-icon">🔥</div>
-                    <h3>مقاومة كبريتة الرطوبة</h3>
-                    <p>تصميم وحماية أطراف التوصيل ضد التفاعلات الحرارية وكبريتة الأملاح المتسارعة في بيئة جدة الساحلية.</p>
-                </div>
-                <div class="card">
-                    <div class="card-icon">🧠</div>
-                    <h3>الشحن الذكي التكيفي</h3>
-                    <p>تفعيل أجهزة الشحن الذكي وعلاج التفريغ المفرط للسيارات التي تقضي فترات وقوف طويلة.</p>
-                </div>
-            </div>
-        </div>
-    </section>
-    <footer class="main-footer">
-        <p>© 2026 Battery Express. جميع الحقوق محفوظة لشركاء النجاح في جدة ومكة.</p>
-    </footer>
-</body>
-</html>
+/* إعدادات المتصفح الافتراضية والخطوط */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --bg-black: #0a0a0c;
+    --card-bg: #141418;
+    --express-yellow: #ffb700;
+    --express-yellow-glow: rgba(255, 183, 0, 0.25);
+    --text-white: #ffffff;
+    --text-muted: #a0a0ab;
+    --transition: all 0.3s ease;
+}
+
+body {
+    background-color: var(--bg-black);
+    color: var(--text-white);
+    font-family: 'Cairo', sans-serif;
+    line-height: 1.6;
+    overflow-x: hidden;
+}
+
+/* تنسيق الهيدر */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px 5%;
+    background-color: rgba(10, 10, 12, 0.85);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.logo {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 800;
+    font-size: 1.4rem;
+    letter-spacing: 1px;
+    color: var(--text-white);
+}
+
+.logo .accent {
+    color: var(--express-yellow);
+    text-shadow: 0 0 10px var(--express-yellow-glow);
+}
+
+.status-badge {
+    background: rgba(255, 183, 0, 0.1);
+    border: 1px solid var(--express-yellow);
+    color: var(--express-yellow);
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+/* قطاع الواجهة الفخمة (Hero Section) */
+.hero {
+    position: relative;
+    padding: 100px 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    min-height: 70vh;
+}
+
+/* الوهج الخلفي المضيئ الفخم */
+.glow-sphere {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    background: radial-gradient(circle, var(--express-yellow-glow) 0%, transparent 70%);
+    top: 15%;
+    left: 50%;
+    transform: translateX(-50%);
+    pointer-events: none;
+    z-index: 1;
+}
+
+.hero .content {
+    position: relative;
+    z-index: 2;
+    max-width: 800px;
+}
+
+.sub-title {
+    color: var(--express-yellow);
+    font-size: 0.95rem;
+    font-weight: 800;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 16px;
+}
+
+.main-title {
+    font-size: 2.8rem;
+    font-weight: 800;
+    margin-bottom: 20px;
+    line-height: 1.3;
+}
+
+.description {
+    font-size: 1.1rem;
+    color: var(--text-muted);
+    margin-bottom: 40px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* الأزرار التفاعلية */
+.cta-container {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.btn {
+    text-decoration: none;
+    padding: 14px 28px;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 1rem;
+    transition: var(--transition);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-primary {
+    background-color: var(--express-yellow);
+    color: #000000;
+    box-shadow: 0 4px 15px var(--express-yellow-glow);
+}
+
+.btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(255, 183, 0, 0.4);
+}
+
+.btn-secondary {
+    background-color: rgba(255, 255, 255, 0.05);
+    color: var(--text-white);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.btn-secondary:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    transform: translateY(-2px);
+}
+
+/* المزايا (Features Section) */
+.features {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 24px;
+    padding: 60px 5%;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.card {
+    background-color: var(--card-bg);
+    border: 1px solid rgba(255, 255, 255, 0.03);
+    padding: 30px;
+    border-radius: 12px;
+    transition: var(--transition);
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    border-color: rgba(255, 183, 0, 0.2);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+.card-icon {
+    font-size: 2.22rem;
+    display: block;
+    margin-bottom: 16px;
+}
+
+.card h3 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 10px;
+    color: var(--text-white);
+}
+
+.card p {
+    font-size: 0.95rem;
+    color: var(--text-muted);
+}
+
+/* تذييل الصفحة */
+.footer {
+    text-align: center;
+    padding: 40px 5%;
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
+    color: var(--text-muted);
+    font-size: 0.9rem;
+}
+
+/* التوافق مع الشاشات الصغيرة (Responsive Mobile Settings) */
+@media (max-width: 768px) {
+    .main-title {
+        font-size: 2rem;
+    }
+    
+    .hero {
+        padding: 60px 4%;
+    }
+}
