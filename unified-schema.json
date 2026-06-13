@@ -1,0 +1,2228 @@
+{
+  "schemas": [
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في أبحر الجنوبية: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "أبحر الجنوبية"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.6854,
+        "longitude": 39.1129
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في أبحر الشمالية: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "أبحر الشمالية"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.7126,
+        "longitude": 39.1023
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في الأجاويد: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "الأجاويد"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.4055,
+        "longitude": 39.255
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في الإسكان: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "مكة المكرمة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "الإسكان"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.4011,
+        "longitude": 39.7712
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في البساتين: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "البساتين"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.6625,
+        "longitude": 39.119
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في البوادي: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "البوادي"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.5794,
+        "longitude": 39.1688
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في التنعيم: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "مكة المكرمة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "التنعيم"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.4578,
+        "longitude": 39.7824
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في التيسير: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "التيسير"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.554,
+        "longitude": 39.2392
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في الجعرانة: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "مكة المكرمة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "الجعرانة"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.4912,
+        "longitude": 39.9234
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في الحمدانية: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "الحمدانية"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.7289,
+        "longitude": 39.1556
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في الحمراء: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "الحمراء"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.527,
+        "longitude": 39.106
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في الخمرة: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "الخمرة"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.3912,
+        "longitude": 39.2312
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في الرحمانية: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "الرحمانية"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.7011,
+        "longitude": 39.1952
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في الرصيفة: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "مكة المكرمة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "الرصيفة"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.4089,
+        "longitude": 39.789
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في الروضة: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "الروضة"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.575,
+        "longitude": 39.155
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في الريان: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "الريان"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.6934,
+        "longitude": 39.199
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في الزهراء: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "الزهراء"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.5841,
+        "longitude": 39.1352
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في السامر: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "السامر"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.588,
+        "longitude": 39.2154
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في السلامة: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "السلامة"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.5862,
+        "longitude": 39.1549
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في السنابل: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "السنابل"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.3789,
+        "longitude": 39.2612
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في الشرائع: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "مكة المكرمة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "الشرائع"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.4312,
+        "longitude": 39.9654
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في الشرفية: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "الشرفية"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.5122,
+        "longitude": 39.1841
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في الشوقية: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "مكة المكرمة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "الشوقية"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.3798,
+        "longitude": 39.7923
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في الصفا: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "الصفا"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.5714,
+        "longitude": 39.197
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في الصناعية الثالثة: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "الصناعية الثالثة"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.312,
+        "longitude": 39.314
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في الصناعية الثانية: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "الصناعية الثانية"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.3411,
+        "longitude": 39.289
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في العزيزية: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "العزيزية"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.5452,
+        "longitude": 39.1982
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في العزيزية-مكة: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "مكة المكرمة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "العزيزية-مكة"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.398,
+        "longitude": 39.854
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في العمرة: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "مكة المكرمة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "العمرة"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.4989,
+        "longitude": 39.7523
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في العوالي: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "مكة المكرمة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "العوالي"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.3654,
+        "longitude": 39.8654
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في الفضيلة: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "الفضيلة"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.365,
+        "longitude": 39.281
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في الفيحاء: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "الفيحاء"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.4984,
+        "longitude": 39.2132
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في الفيصلية: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "الفيصلية"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.5645,
+        "longitude": 39.1812
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في القرنية: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "القرنية"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.3502,
+        "longitude": 39.259
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في الكعكية: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "مكة المكرمة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "الكعكية"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.3621,
+        "longitude": 39.8021
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في الكوثر: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "الكوثر"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.7155,
+        "longitude": 39.1764
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في المحجر: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "المحجر"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.439,
+        "longitude": 39.1989
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في المحمدية: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "المحمدية"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.6384,
+        "longitude": 39.1278
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في المرجان: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "المرجان"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.6515,
+        "longitude": 39.1084
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في المروة: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "المروة"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.6022,
+        "longitude": 39.1895
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في المعابدة: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "مكة المكرمة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "المعابدة"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.4389,
+        "longitude": 39.8423
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في النزهة: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "النزهة"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.5734,
+        "longitude": 39.1834
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في النسيم: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "النسيم"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.5115,
+        "longitude": 39.2224
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في النعيم: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "النعيم"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.6111,
+        "longitude": 39.1432
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في النهضة: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "النهضة"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.619,
+        "longitude": 39.1255
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في النوارية: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "مكة المكرمة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "النوارية"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.5542,
+        "longitude": 39.7352
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في الوزيرية: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "الوزيرية"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.4468,
+        "longitude": 39.2215
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في أم الجود: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "مكة المكرمة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "أم الجود"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.415,
+        "longitude": 39.7432
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في بترومين: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "بترومين"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.4502,
+        "longitude": 39.1845
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في بطحاء قريش: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "مكة المكرمة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "بطحاء قريش"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.365,
+        "longitude": 39.812
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في بطحاء مكة: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "مكة المكرمة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "بطحاء مكة"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.421,
+        "longitude": 39.818
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في حي البحيرات: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "مكة المكرمة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "حي البحيرات"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.4745,
+        "longitude": 39.7612
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في حي البساتين-مكة: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "مكة المكرمة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "حي البساتين-مكة"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.5126,
+        "longitude": 39.7432
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في حي الجامعة: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "حي الجامعة"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.4812,
+        "longitude": 39.2154
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في حي الحسينية: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "مكة المكرمة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "حي الحسينية"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.3323,
+        "longitude": 39.8867
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في حي الخالدية: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "مكة المكرمة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "حي الخالدية"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.3912,
+        "longitude": 39.7915
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في حي الراشدية: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "مكة المكرمة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "حي الراشدية"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.4552,
+        "longitude": 39.9812
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في حي الزايدي: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "مكة المكرمة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "حي الزايدي"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.3854,
+        "longitude": 39.7154
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في طيبة: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "طيبة"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.7511,
+        "longitude": 39.1678
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في غليل: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "غليل"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.4284,
+        "longitude": 39.212
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في مشرفة: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "جدة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "مشرفة"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.5312,
+        "longitude": 39.1815
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "AutoRepair",
+      "name": "بطارية إكسبرس",
+      "description": "خدمة بطارية إكسبرس في ولي العهد: تشخيص فوري لجميع مشاكل الكهرباء مع دعم كافة موديلات السيارات بدون استثناء مع برمجة أنظمة CAN-Bus المعقدة للكمبيوتر، وضمان معتمد شامل للتركيب والبطاريات في موقعك.",
+      "url": "https://batterybx.com",
+      "telephone": "+966560407321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "مكة المكرمة",
+        "addressRegion": "مكة المكرمة",
+        "streetAddress": "ولي العهد"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.3215,
+        "longitude": 39.7615
+      },
+      "openingHours": "Mo-Su 00:00-23:59"
+    }
+  ],
+  "seoData": {
+    "batteries-jeddah": {
+      "titleAr": "بطاريات جدة - محل بطاريات متنقل 24 ساعة",
+      "titleEn": "Car Batteries Jeddah | 24/7 Mobile Service",
+      "metaTitle": "بطاريات جدة | تبديل بطارية السيارة عند البيت 0560407321",
+      "metaDesc": "أفضل محل بطاريات جدة متنقل لتغيير بطاريات السيارات أمام المنزل وخلال 20 دقيقة. نوفر بطاريات هانكوك، أسيديلكو، فارتا، وباناسونيك مع ضمان حقيقي وفحص كمبيوتر مجاني.",
+      "h1": "أفضل محل بطاريات في جدة - توصيل وتركيب فوري ومجاني",
+      "h2": "لماذا تختار بطارية إكسبريس لتبديل بطارية سيارتك بجدة؟",
+      "introAr": "البحث عن بطاريات جدة أو أقرب محل بطاريات سيارات لم يعد أمراً متعباً. نحن في بطارية إكسبريس نقدم لك خدمة متكاملة لتغيير وتوصيل بطارية السيارة حتى المنزل أو العمل في أي مكان داخل جدة طوال 24 ساعة وضمن أسرع وقت استجابة.",
+      "introEn": "Finding car batteries in Jeddah is now completely seamless. We deliver professional battery services direct to your location, 24/7, with zero hassle.",
+      "storyAr": "نوفر لعملائنا في مدينة جدة تشكيلة واسعة من أفضل ماركات البطاريات العالمية (مثل فارتا Varta الألمانية، هانكوك Hankook الكورية، وأميرون Amaron وأسيديلكو AC Delco) مع فحص مجاني للدينامو والتيار الكهربائي لضمان سلامة سيارتك وتفادي أي أعطال مستقبلية.",
+      "bullets": [
+        "توصيل وتركيب بطاريات سيارات مجاني أمام المنزل في أقل من 20 دقيقة.",
+        "فحص كامل بالكمبيوتر لبطارية السيارة والتأكد من أداء الدينامو قبل التركيب.",
+        "توفير بطاريات أصلية 100% مع شهادة ضمان معتمدة تصل إلى سنتين.",
+        "فريق فني محترف متخصص في معالجة كهرباء السيارات المختلفة والأوروبية."
+      ],
+      "features": [
+        {
+          "title": "ضمان حقيقي",
+          "desc": "جميع البطاريات لدينا بضمان الوكيل الرسمي المعتمد في السعودية لراحة تامة.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "خدمة 24 ساعة",
+          "desc": "نعمل على مدار الساعة، طوال أيام الأسبوع، حتى في العطلات والإجازات الرسمية بجدة.",
+          "icon": "Clock"
+        },
+        {
+          "title": "سعر تنافسي",
+          "desc": "نقدم أفضل أسعار بطاريات السيارات بجدة مع الحفاظ على معايير الجودة العالية.",
+          "icon": "Zap"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "هل خدمة تبديل البطارية عند البيت بجدة تكلفتها إضافية؟",
+          "a": "في بطارية إكسبريس، خدمة التوصيل والتركيب عند البيت وفحص كمبيوتر الدينامو هي خدمة مجانية نقدمها لجميع عملائنا عند شراء البطارية."
+        },
+        {
+          "q": "ما هي فترة الضمان التي أحصل عليها عند تبديل البطارية؟",
+          "a": "تحصل على الضمان الرسمي المعتمد من الوكيل والذي يتراوح بين 12 إلى 24 شهراً بحسب الشركة المصنعة ونوع البطارية."
+        },
+        {
+          "q": "هل نبرمج كمبيوتر السيارة بعد توصيل البطارية الجديدة؟",
+          "a": "نعم، فنيونا مجهزون بأحدث أجهزة التشخيص والبرمجة لإعادة ضبط الحساسات لضمان تشغيلها بكفاءة عالية."
+        }
+      ],
+      "locationCenter": "بترومين، جدة / وسط جدة والبلد",
+      "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118831.13783471017!2d39.1111!3d21.5433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c3d01fb1137e59%3A0xee6759d2d7c112e2!2sJeddah%20Saudi%20Arabia!5e0!3m2!1sen!2sae!4v1700000000000",
+      "schemaType": "LocalBusiness",
+      "lat": 21.5433,
+      "lng": 39.1728
+    },
+    "puncture-jeddah": {
+      "titleAr": "بنشر متنقل جدة - توصيل وتركيب بطاريات 24 ساعة",
+      "titleEn": "Mobile Puncture Jeddah | 24/7 Roadside Battery Rescue",
+      "metaTitle": "بنشر متنقل جدة | فحص وتغيير بطاريات السيارات عند البيت 0560407321",
+      "metaDesc": "إنقاذ وبنشر متنقل بجدة طوال 24 ساعة للسيارات. فحص وتوصيل وتركيب بطاريات السيارات تحت إشراف فنيين متخصصين. اضغط للاتصال الفوري بالفني القريب منك.",
+      "h1": "أسرع بنشر متنقل في جدة - فزعة وتوصيل بطاريات سيارات سريع",
+      "h2": "لماذا تطلب بنشر متنقل جدة من بطارية إكسبريس؟",
+      "introAr": "إذا تعطلت بطارية سيارتك بشكل مفاجئ في طريق الحرمين أو أمام منزلك بجدة، لا داعي للقلق. خدمة بنشر متنقل جدة من بطارية إكسبريس مجهزة بأفضل الأجهزة اللوجستية الحديثة لإصلاح وتغيير بطاريات السيارات والتحكم في التيار الكهربائي فورا.",
+      "introEn": "On-call mobile battery dispatch in Jeddah. Fully equipped vans matching the main road network 24/7.",
+      "storyAr": "نوفر لعملائنا في مدينة جدة أعمال توصيل وتركيب بطاريات سيارات متنقلة ومطابقة لمواصفات الوكالة مع تفعيل الضمان ووزن جهد الدينامو.",
+      "bullets": [
+        "تغطية استثنائية لكافة أحياء جدة الساحلية والشمالية والشرقية والجنوبية.",
+        "توفير بطاريات أصلية مكفولة بضمان معتمد وبأسعار عادلة ومناسبة.",
+        "فحص رقمي وعلاجي بالكمبيوتر لبطارية السيارة والتأكد من أداء الدينامو.",
+        "تجهيزات فنية متقدمة لإجراء برمجة الذاكرة للسيارات الصالون والأوروبية الفارهة."
+      ],
+      "features": [
+        {
+          "title": "فزعة سريعة جداً",
+          "desc": "أقرب كهربائي وبوتسر طوارئ يتحرك إليك بالمجان في خلال 15 دقيقة فقط للاستجابة.",
+          "icon": "Clock"
+        },
+        {
+          "title": "ضمان السعر العادل",
+          "desc": "نلتزم بمستوى تسعير موحد وعادل للبطاريات مع فواتير رسمية تفصيلية لراحتك.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "برمجة وبطارية أصلية",
+          "desc": "فنيون مدربون على حماية الأنظمة الإلكترونية وإعادة ضبط حساسات الطاقة الذكية.",
+          "icon": "Zap"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "ما هي تكلفة خدمة بنشر متنقل جدة لتوصيل البطارية؟",
+          "a": "التوصيل والتركيب وفحص الدينامو للبطاريات هو مجاني بالكامل عند شراء البطارية من بطارية إكسبريس."
+        },
+        {
+          "q": "هل تعمل ورشكم المتنقلة بجدة طوال الـ 24 ساعة؟",
+          "a": "نعم، طواقمنا اللوجستية متأهبة وموزعة بنظام المناوبات المستمرة لتغطية كافة بلديات جدة حتى في أوقات الليل والفجر."
+        },
+        {
+          "q": "هل توفرون بطاريات هانكوك الكورية وأسيديلكو الأمريكية بحوزة سيارات الخدمة؟",
+          "a": "بالتأكيد، كافة سيارات الخدمة الميدانية تحمل تشكيلة واسعة من المقاسات والماركات العالمية والوكالات الرسمية."
+        }
+      ],
+      "locationCenter": "جدة - تغطية شاملة لجميع الطرق السريعة والأحياء الداخلية المحيطة",
+      "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118831.13783471017!2d39.1111!3d21.5433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c3d01fb1137e59%3A0xee6759d2d7c112e2!2sJeddah%20Saudi%20Arabia!5e0!3m2!1sen!2sae!4v1700000000000",
+      "schemaType": "EmergencyService",
+      "lat": 21.5433,
+      "lng": 39.1728
+    },
+    "battery-change-jeddah": {
+      "titleAr": "تغيير بطارية السيارة جدة - خدمة عند البيت 24 ساعة",
+      "titleEn": "Car Battery Replacement Jeddah | On-Site Install",
+      "metaTitle": "تغيير بطارية السيارة جدة | تبديل بطارية سيارة عند البيت 0560407321",
+      "metaDesc": "تغيير بطارية السيارة بجدة خدمة متنقلة فائقة السرعة عند البيت. نصلك خلال 15 دقيقة، تبديل احترافي مع برمجة بالكمبيوتر مجانية وضمان كامل سنتين لجميع الماركات.",
+      "h1": "تغيير وتبديل بطارية السيارة عند البيت في جدة - جودة وسرعة لا تقارن",
+      "h2": "لماذا تعد خدمة تبديل بطارية السيارة في جدة من بطارية إكسبريس خيارك الأفضل؟",
+      "introAr": "توقف سيارتك بسبب نفاد البطارية أمام المنزل أو في العمل لم يعد معضلة تتطلب سحب مركبتك للورش الثابتة. قمنا بتصميم أقوى خدمة تغيير وتبديل بطاريات سيارات بجدة، حيث نصل إليك بسيارات مجهزة بشتى مقاسات البطاريات الأصلية ومعدات الفحص الحديثة للتغير الفوري والآمن.",
+      "introEn": "Hassle-free on-site car battery replacement service right at your doorstep in Jeddah. Experienced professionals matching your vehicle original battery specs.",
+      "storyAr": "يتم فحص بطارية سيارتك الحالية بمقاييس دقيقة للكشف عن تراجع جهدها الفعال، لنضمن للعميل ضرورة الاستبدال. يتم تبديل البطارية بأخرى جديدة من إنتاج الربع الأخير وتاريخ تشغيل طازج لنضمن العمر الأقصى مع البرمجة المجانية للحساسات.",
+      "bullets": [
+        "توفير جميع ماركات بطاريات السيارات المعتمدة مثل هانكوك، أسيديلكو، فارتا، وباناسونيك.",
+        "التركيب والبرمجة بالكمبيوتر مجاناً لضمان عدم تعطل أنظمة الأمان والتحكم.",
+        "فنيون متخصصون ومحترفون للغاية يتعاملون مع كافة فئات السيارات والسيارات الفارهة.",
+        "دعم فني استثنائي وتوزيع للفواتير وكرت الكفالة المعتمدة لكل عميل للتغطية الشاملة."
+      ],
+      "features": [
+        {
+          "title": "تغطية أحياء جدة",
+          "desc": "نصلك أينما كنت في شمال، شرق، وسط، أو جنوب جدة خلال زمن قياسي يتراوح من 15 إلى 20 دقيقة.",
+          "icon": "MapPin"
+        },
+        {
+          "title": "فحص كمبيوتر مجاني",
+          "desc": "إجراء قراءة للجهد المتبقي واكتشاف وجود أي تسريبات بالدوائر قبل إقرار الاستبدال الفعلي.",
+          "icon": "Zap"
+        },
+        {
+          "title": "ضمان الـ 24 شهراً",
+          "desc": "جميع بطارياتنا أصلية 100% وتتمتع بضمان كامل وشامل يسري مفعوله في جميع مدن المملكة.",
+          "icon": "ShieldCheck"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "كيف يتم تحديد الماركة والمقاس المناسب لسيارتي؟",
+          "a": "يقوم الفني بمطابقة كتالوج السيارة أو قراءة فولتية وأمبير البطارية الحالية وتوفير الأنسب لمركبتك مثل 55، 70، أو 80 أمبير."
+        },
+        {
+          "q": "هل تفقد السيارة برمجتها أو كلمة مرور الراديو أثناء تركيب البطارية؟",
+          "a": "نهتم باستخدام موصلات طاقة احتياطية ذكية (OBD Backup) أثناء عملية الاستبدال، لضمان استمرار تغذية كمبيوتر السيارة وحفظ برمجته."
+        },
+        {
+          "q": "ما هي أسعار تركيب وتوصيل بطاريات السيارات لديكم بجده؟",
+          "a": "لا نفرض أي رسوم إضافية مقابل التوصيل والتركيب; تسعيرنا يشمل قيمة البطارية الفعلي المعتمد بالوكالة مع الفحص المجاني."
+        }
+      ],
+      "locationCenter": "جدة - تغطية شاملة لجميع البلديات والورش المتنقلة بأحياء الشمال والشرق والجنوب",
+      "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118831.13783471017!2d39.1111!3d21.5433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c3d01fb1137e59%3A0xee6759d2d7c112e2!2sJeddah%20Saudi%20Arabia!5e0!3m2!1sen!2sae!4v1700000000000",
+      "schemaType": "AutomotiveBusiness",
+      "lat": 21.5433,
+      "lng": 39.1728
+    },
+    "agm-battery-jeddah": {
+      "titleAr": "بطارية AGM جدة - فحص وتركيب بطاريات التقنيات الحديثة",
+      "titleEn": "AGM Batteries Jeddah | Start-Stop Tech Power",
+      "metaTitle": "بطارية AGM جدة | تبديل بطاريات السيارات الحديثة Start-Stop 0560407321",
+      "metaDesc": "نوفر بطاريات AGM و EFB الفائقة للسيارات الألمانية والأوروبية واليابانية المجهزة بأنظمة التشغيل الذكية بكافة مقاساتها بجدة مع فحص وبرمجة كمبيوتر 24 ساعة.",
+      "h1": "أفضل وكيل بطارية AGM في جدة - أداء استثنائي للأنظمة المتقدمة",
+      "h2": "لماذا تتطلب سيارتك الحديثة بطارية من نوع AGM أو EFB على وجه التحديد؟",
+      "introAr": "تمتلك السيارات الأوروبية والفارهة (مثل مرسيدس، بي إم دبليو، أودي، بورش) والسيارات الحديثة أنظمة إطفاء ذكية موفرة للوقود (Start-Stop)، وهي تحتاج لتيار بدء تشغيل مهول وقدرة تحمل دورية لا تتوفر بالبطاريات السائلة التقليدية. نحن متخصصون في تأمين وبرمجة بطاريات AGM الأصلية بجدة.",
+      "introEn": "Step up to solid performance with dry cell AGM and EFB batteries designed custom for massive automotive luxury, SUVs, and standard eco Start-Stop in Jeddah.",
+      "storyAr": "فريقنا مدرب على أعلى مستوى للتعامل مع بطاريات AGM الحساسة والمعقدة وتغييرها مع إعادة ضبط أنظمة شحن الدينامو الذكية (BMS Recalibration) لضمان عمر أمثل وتفادي تلف البطارية قبل وقتها.",
+      "bullets": [
+        "مخزون رائع ومضمون من أفضل الشركات العالمية والمصانع المتفوقة مثل فارتا الألمانية.",
+        "فنيون متخصصون ومحترفون في فحص وتركيب بطاريات السيارات الأوروبية الفارهة.",
+        "التركيب والبرمجة بالكمبيوتر وتصفير العداد لضمان سلامة الضفيرة والكمبيوتر.",
+        "العمر الافتراضي مميز ومقترن بضمان حقيقي رسمي معتمد يسري في جميع مناطق المملكة."
+      ],
+      "features": [
+        {
+          "title": "ضمان ممتد",
+          "desc": "نمنح كرت كفالة وضمان متميز بختم بطارية إكسبريس يسري على جميع خدماتنا.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "أداء استثنائي",
+          "desc": "قدرة تفريغ عميقة وقوة تدوير بارد هائلة في درجات الحرارة المرتفعة بجدة ومكة.",
+          "icon": "Wrench"
+        },
+        {
+          "title": "أنظمة Start-Stop",
+          "desc": "تدعم بالكامل متطلبات نظام الإطفاء والتشغيل المتكرر أثناء الزحام والمواسم.",
+          "icon": "Clock"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "ما الفرق بين بطارية AGM وبطارية السيارة العادية؟",
+          "a": "بطارية AGM تحتوي على فواصل زجاجية ممتصة للحمض تمنع الانسكاب وتتحمل التفريغ العالي ومعدل الشحن السريع بالزحام وتخدم السيارات الممتلئة بالإلكترونيات، بينما العادية تضعف بشكل فوري مع هذه الأنظمة."
+        },
+        {
+          "q": "هل يمكن استبدال بطارية AGM ببطارية عادية سائلة؟",
+          "a": "لا ينصح بذلك أبداً، تركيب بطارية عادية في سيارة صممت لبطارية AGM سيؤدي إلى تلفها خلال أشهر قليلة بسبب عدم تحملها الضغط الكهربائي العالي."
+        },
+        {
+          "q": "هل تقومون ببرمجة بطاريات AGM بجدة؟",
+          "a": "نعم، كافة ورشنا المتنقلة مجهزة بأجهزة برمجة متقدمة لتعريف وتحديث بيانات البطارية الجديدة على الكنترول بجميع أحياء جدة."
+        }
+      ],
+      "locationCenter": "جدة - تغطية شاملة لجميع البلديات والورش المتنقلة بأحياء الشمال والشرق والجنوب",
+      "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118831.13783471017!2d39.1111!3d21.5433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c3d01fb1137e59%3A0xee6759d2d7c112e2!2sJeddah%20Saudi%20Arabia!5e0!3m2!1sen!2sae!4v1700000000000",
+      "schemaType": "AutomotiveBusiness",
+      "lat": 21.5433,
+      "lng": 39.1728
+    },
+    "battery-jumpstart-jeddah": {
+      "titleAr": "اشتراك بطارية سيارة جدة - خدمة شحن وإنقاذ سريع 24 ساعة",
+      "titleEn": "Car Battery Jumpstart Jeddah | Roadside Rescue",
+      "metaTitle": "اشتراك بطارية جدة | شحن بطارية السيارة عند البيت 0560407321",
+      "metaDesc": "طلب اشتراك بطارية سيارة بجدة عند البيت أو على الطريق طوال 24 ساعة. نصلك في 15 دقيقة مجهزين ببادئات تشغيل ذكية معزولة لحماية عقول وحساسات السيارات الحديثة.",
+      "h1": "أقرب خدمة اشتراك بطارية سيارة في جدة - إنقاذ سريع وآمن طوال اليوم",
+      "h2": "كيف تضمن تشغيل سيارتك بأمان وتفادي تلف الحساسات الكهربائية؟",
+      "introAr": "توقف سيارتك بسبب نفاد شحن البطارية أمر مزعج للغاية. لا داعي للمجازفة بطلب اشتراك عشوائي من سيارات عابرة قد يسبب التوصيل الخاطئ فيها تلفاً لكمبيوتر مركبتك. نحن نقدم خدمة اشتراك وتنشيط البطارية بأجهزة بوستر معزولة وآمنة تحمي الأنظمة الإلكترونية بالكامل.",
+      "introEn": "Emergency car battery jumpstart and fast boost charging services across Jeddah. Utilizing isolated high-grade starter kits to shield modern ECUs from transient electric shocks.",
+      "storyAr": "يقوم فنيونا بقياس الجهد المتبقي واكتشاف وجود أي تهريب في تيار السيارة قبل شبك الأسلاك، ثم التنشيط السلس للمحرك وفحص كفاءة شحن الدينامو لضمان قدرتك على إكمال رحلتك بأمان تام وبدون أي أعطال.",
+      "bullets": [
+        "فزعة اشتراك بطارية سريعة جداً تصل إليك في غضون 15 دقيقة بكافة طرق وأحياء جدة.",
+        "استخدام كابلات وبادئات تشغيل ذكية بموانع التماس وصدمات الجهد الكهربي.",
+        "فحص مجاني لأداء الدينامو لمعرفة ما إذا كانت البطارية بحاجة للتغيير أم للشحن فقط.",
+        "فريق فني خبير متواجد طوال الـ 24 ساعة لخدمتك في جميع الحالات والظروف الطارئة."
+      ],
+      "features": [
+        {
+          "title": "فزعة سريعة جداً",
+          "desc": "نصلك لموقعك داخل جدة بشكل فوري لإنقاذك في الشوارع الفرعية أو الكباري المزدحمة.",
+          "icon": "Clock"
+        },
+        {
+          "title": "حماية الكمبيوتر",
+          "desc": "أجهزتنا معزولة كلياً ومصممة خصيصاً لتفادي أي تلف في لوحة الفيوزات أو عقل المحرك.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "قياس شواحن ومولدات",
+          "desc": "بعد التشغيل نقوم بقياس طاقة الدينامو للتأكد من شحن البطارية بنجاح ودون تهريب.",
+          "icon": "Zap"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "هل اشتراك البطارية العشوائي يضر بكهرباء سيارتي المحسنة؟",
+          "a": "نعم. فالتوصيل الخاطئ أو حدوث شرارة تماس مفاجئة أثناء استخدام كابلات تقليدية مع سيارة أخرى قد يعطل لوحة الفيوزات أو كمبيوتر الماكينة. لذا نلتزم باستخدام أجهزة متطورة آمنة."
+        },
+        {
+          "q": "كم دقيقة يجب إبقاء السيارة تعمل بعد الاشتراك لتشحن بنجاح؟",
+          "a": "يفضل بقاء المحرك يعمل في حالة حركة لمدة تتراوح بين 30 إلى 45 دقيقة كاملة مع تقليل تشغيل الأحمال الكثيفة لضمان شحن الطاقة للبطارية."
+        },
+        {
+          "q": "ما هي تكلفة طلب خدمة اشتراك بطارية في جدة? ",
+          "a": "نوفر خدمة الاشتراك وإنقاذ البطاريات بتكلفة اقتصادية ورمزية ميسرة تغطي تنقل الفني ومستلزمات الفحص المجاني للمولد."
+        }
+      ],
+      "locationCenter": "محمدية، جدة / تمركز سريع قرب الطرق الرئيسية والكباري السريعة",
+      "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118831.13783471017!2d39.1111!3d21.5433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c3d01fb1137e59%3A0xee6759d2d7c112e2!2sJeddah%20Saudi%20Arabia!5e0!3m2!1sen!2sae!4v1700000000000",
+      "schemaType": "EmergencyService",
+      "lat": 21.5433,
+      "lng": 39.1728
+    },
+    "battery-24h-jeddah": {
+      "titleAr": "محل بطاريات 24 ساعة جدة - طاقة وإنقاذ مستمر دون توقف",
+      "titleEn": "24-Hour Car Battery Jeddah | Non-Stop Direct",
+      "metaTitle": "محل بطاريات 24 ساعة جدة | تبديل بطارية السيارة طوال اليوم 0560407321",
+      "metaDesc": "تبحث عن محل بطاريات سيارات بجدة مفتوح 24 ساعة؟ نحن نوفر ورش متنقلة مجهزة بأفضل أنواع بطاريات السيارات لخدمتك طوال اليوم في شمال وشرق ووسط وجنوب جدة.",
+      "h1": "محل بطاريات سيارات متنقل 24 ساعة في جدة - أسرع خدمة عند البيت",
+      "h2": "خدمة صيانة وتوصيل بطاريات السيارات طوال فترات الليل والنهار وبلا انقطاع",
+      "introAr": "لا تختار الأعطال أوقاتاً مناسبة للحدوث وغالباً ما تتوقف سيارتك في ساعات الليل المتأخرة أو الصباح الباكر عندما تكون كافة الورش مغلقة. فريق بطارية إكسبريس يقدم خدمة متكاملة للتوصيل والتركيب على مدار 24 ساعة لتشعر بالأمان التام أينما كنت وفي أي وقت.",
+      "introEn": "Round-the-clock car battery replacement and support in Jeddah. Our specialized service runs uninterruptedly 24/7/365 to deliver quick troubleshooting standard at reasonable rates.",
+      "storyAr": "طواقمنا متناوبة وموزعة بنظام الفترات والمواسم، ويمتلك الفنيون المعرفة والخبرة الوافية لمطابقة البطارية الأنسب لسيارتك وموازنة جهدها وبرمجتها على أكمل وجه بمجرد الاتصال بنا.",
+      "bullets": [
+        "فترات العمل متواصلة طوال 24 ساعة يومياً بما في ذلك عطلات نهاية الأسبوع والأعياد.",
+        "تأمين كافة الماركات العالمية الأصلية مثل فارتا الألمانية وهانكوك الكورية وأسيديلكو.",
+        "مستوى تسعير موحد وعادل لخدمات الليل والنهار وبدون فرض أي مبالغات مالية.",
+        "دعم فني استشاري فوري عبر الهاتف أو واتساب لتشخيص مشاكل الكهرباء الطارئة."
+      ],
+      "features": [
+        {
+          "title": "خدمة 24/7",
+          "desc": "فريق طوارئ متناوب يعمل بلا انقطاع لضمان الاستجابة لبلديات جدة حتى في أحلك الظروف.",
+          "icon": "Clock"
+        },
+        {
+          "title": "سرعة حضور فائقة",
+          "desc": "بمجرد اتصالك، نصل إليك في غضون 20 دقيقة كحد أقصى بفضل انتشار ورشنا الميدانية.",
+          "icon": "Zap"
+        },
+        {
+          "title": "معايير الجودة والمطابقة",
+          "desc": "نلتزم بتقديم بطاريات بإنتاج حديث وتاريخ جديد تماماً مكفول بضمان الوكالة الموثوق.",
+          "icon": "ShieldCheck"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "هل تختلف أسعار البطاريات لديكم في أوقات الفجر أو المتأخرة بالليل؟",
+          "a": "لا، نحن نقدم أفضل الأسعار العادلة للبطاريات بجدة على مدار الساعة بدون أي زيادة أو استغلال للأوقات الصعبة."
+        },
+        {
+          "q": "ما هي الأحياء والمناطق التي تغطونها طوال الـ 24 ساعة بجدة؟",
+          "a": "نحن نغطي جدة بالكامل من أقصى الشمال (أبحر والحمدانية والنعيم) والشرق (السامر والصفا) والوسط وحتى السنابل وبترومين بالجنوب."
+        },
+        {
+          "q": "كيف تطلب أقرب فني بطاريات متنقل من موقعك بالليل؟",
+          "a": "فقط اضغط على زر الاتصال الهاتفي بموقعنا أو ارسل موقعك بالواتساب، وسيقوم فني الوردية القريب بالتحرك السريع إليك فوراً."
+        }
+      ],
+      "locationCenter": "جدة - تغطية متكاملة ومستمرة طوال 24 ساعة بجميع البلديات والأحياء البرية والبحرية",
+      "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118831.13783471017!2d39.1111!3d21.5433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c3d01fb1137e59%3A0xee6759d2d7c112e2!2sJeddah%20Saudi%20Arabia!5e0!3m2!1sen!2sae!4v1700000000000",
+      "schemaType": "LocalBusiness",
+      "lat": 21.5433,
+      "lng": 39.1728
+    },
+    "districts-alsafa": {
+      "titleAr": "بطاريات حي الصفا - أسرع خدمة تغيير عند البيت بجدة",
+      "titleEn": "Car Batteries Al Safa Jeddah | 20-Min Delivery",
+      "metaTitle": "بطاريات حي الصفا جدة | تبديل بطارية السيارة عند البيت 0560407321",
+      "metaDesc": "خدمة توصيل وتركيب بطاريات السيارات في حي الصفا بجدة. نصلك خلال 15 دقيقة، تغيير بالكمبيوتر وفحص مجاني مع ضمان سنتين. هانكوك، أسيديلكو وفارتا.",
+      "h1": "تغيير وتبديل بطاريات سيارات في حي الصفا جده - فزعة فورية",
+      "h2": "لماذا نعد الأسرع في تغطية وصيانة بطاريات حي الصفا بجدة؟",
+      "introAr": "نهتم في حي الصفا الكثيف بالتحرك الذكي السريع. شوارع مثل شارع أم القرى والأربعين وشارع الشاكرين تشهد زحاماً يومياً لا يحتمل انتظار الأعطال، لذا يتمركز فنيونا بمحاذاة كوبري التحلية ومستشفى الجدعان وصيدلية النهدي لتقديم فزعة فورية ومضمونة وتغيير بطارية سيارتك عند البيت في زمن قياسي.",
+      "introEn": "On-site battery setup and diagnostic aid in Al-Safa district Jeddah. Standard delivery within 15-20 minutes maximum.",
+      "storyAr": "بموجب اتصالك بنا، يتجه إليك الفني القريب من موقعك بحي الصفا لإتمام أعمال فحص شاحن الدينامو والبطارية، وإجراء التركيب والبرمجة باحترافية كاملة وبدون أي تكاليف توصيل إضافية.",
+      "bullets": [
+        "فترة حضور سريعة تقل عن 15 دقيقة لكافة المربعات والشوارع داخل حي الصفا.",
+        "فني متخصص وخبير برمجيات لضمان حماية كمبيوتر سيارتك وقت التبديل.",
+        "بطاريات أصلية ومطابقة لمواصفات الوكيل السعودي مع شهادات ضمان كاملة وموثوقة.",
+        "وفحص الجهد الكهربائي ومستوى الكهرباء لسيارات حي الصفا واختبار كفاءة المولد مجاناً."
+      ],
+      "features": [
+        {
+          "title": "تغطية الصفا الكاملة",
+          "desc": "نخدم جميع مخططات الصفا وطريق الأمير ماجد وشارع التحلية وجامع الشاكرين بسرعة بالغة.",
+          "icon": "MapPin"
+        },
+        {
+          "title": "فحص كمبيوتر مجاني",
+          "desc": "معايرة جودة الطاقة وتشخيص أي تسريبات بضفيرة المركبة قبل فك البطارية الحالية.",
+          "icon": "Zap"
+        },
+        {
+          "title": "بطاريات وكالة مضمونه",
+          "desc": "جميع البطاريات جديدة تماماً ولطيف طرازها مستخرج من فروع التخزين الذاتي الرسمية.",
+          "icon": "ShieldCheck"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "أنا أسكن في حي الصفا بجدة، ما هو أقرب فرع لبطارية إكسبريس من منزلي؟",
+          "a": "فنيونا متمركزون باستمرار في شاحنات مجهزة بحي الصفا مما يجعلنا أقرب إليك من المحلات التقليدية الثابتة. نتجه إليك مباشرة في غضون ربع ساعة فقط عند موافقتك على الخدمة."
+        },
+        {
+          "q": "ما هي الماركات التي يفضلها سكان حي الصفا لسيارات كيا وهيونداي وتويوتا؟",
+          "a": "بطاريات هانكوك الكورية وأسيديلكو الأمريكية تحظى بحزب وشعبية كبيرة وموثوقية عالية وعمر ممتد وتتوفر لدينا بجميع السعات (55، 70، 80 أمبير)."
+        },
+        {
+          "q": "هل تقدمون فحص اشتراك البطاريات بحي الصفا كذلك؟",
+          "a": "نعم، فزعتنا مجهزة بأدوات كشواحن طوارئ مخصصة لإنقاذ البطاريات المعطلة وتوصيل بطاريات سيارات بجميع أحجامها أمام منزلك أو في الطرق الفرعية المجاورة."
+        }
+      ],
+      "locationCenter": "حي الصفا، جدة / تمركز مباشر قرب شارع الأربعين",
+      "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14845.811562943206!2d39.197!3d21.5714!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c3d0dfa0000001%3A0x6b8ddce90b9b37bd!2sAl%20Safa%2C%20Jeddah%20Saudi%20Arabia!5e0!3m2!1sen!2sae!4v1700000000001",
+      "schemaType": "LocalBusiness",
+      "lat": 21.5714,
+      "lng": 39.197
+    },
+    "districts-alhamdaniya": {
+      "titleAr": "بطاريات الحمدانية جدة - تبديل بطارية السيارة عند البيت",
+      "titleEn": "Car Batteries Al Hamdaniya Jeddah | Fast Delivery",
+      "metaTitle": "بطاريات الحمدانية جدة | تغيير بطارية السيارة عند البيت 0560407321",
+      "metaDesc": "خدمة توصيل وتركيب بطاريات السيارات في حي الحمدانية بجدة. نصلك خلال 15 دقيقة، فحص مجاني وبرمجة كمبيوتر. هانكوك، أسيديلكو وفارتا مع الضمان.",
+      "h1": "توصيل وتبديل بطاريات سيارات في حي الحمدانية بجدة - خدمة عند البيت",
+      "h2": "لماذا تختار خدمة بطاريات الحمدانية بجدة المتنقلة على مدار الساعة؟",
+      "introAr": "نعلم جيداً أن حي الحمدانية الواسع ومخططات الصالحية والماجد شمال جدة بحاجة إلى فزعة سريعة للغاية عند توقف البطارية. نحن نتواجد في قلب حي الحمدانية لنخدمك طوال 24 ساعة ونمنحك سرعة وصول لا تتعدى 15 دقيقة بسيارات مجهزة بالكامل.",
+      "introEn": "Professional on-site car battery replacement and jumpstart in Al-Hamdaniya, Al-Salhiyah and Al-Majed districts in North Jeddah. 15-minute response.",
+      "storyAr": "نحن متخصصون في تركيب وتوصيل بطاريات السيارات في حي الحمدانية ومخططاتها. نفحص كفاءة الدينامو والبطارية ونقوم بالبرمجة الإلكترونية الآمنة للحساسات لضمان سلامة سيارتك وتجنب أي تعطل في الطرقات.",
+      "bullets": [
+        "توصيل وتركيب سريع في الحمدانية، الصالحية، ومخطط الماجد خلال 15 دقيقة.",
+        "فحص رقمي وعلاجي لكمبيوتر الماكينة واختبار شحن المولد بالكامل مجاناً.",
+        "بطاريات أصلية مكفولة بضمان رسمي من الوكيل ومعتمدة في المملكة.",
+        "فريق فني متخصص مدرب على برمجة وحفظ ذاكرة السيارات الفارهة والأوروبية."
+      ],
+      "features": [
+        {
+          "title": "تغطية الحمدانية الكاملة",
+          "desc": "نغطي مخططات الحمدانية، الصالحية، الماجد، والرحمانية بكفاءة وسرعة بالغة.",
+          "icon": "MapPin"
+        },
+        {
+          "title": "ضمان سنة وسنتين",
+          "desc": "شهادات كفالة رسمية وفواتير إلكترونية تدعم حقوقك في كافة مدن المملكة.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "فزعة طوارئ سريعة",
+          "desc": "نصلك فوراً أينما كنت لتقديم فحص كمبيوتر وتغيير بطارية في غضون ربع ساعة.",
+          "icon": "Clock"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "كم يستغرق وصول فزعة بطاريات الحمدانية بجدة؟",
+          "a": "نحن نتمركز في حي الحمدانية، ولذلك نصل إليك في الغالب خلال مدة تتراوح بين 10 إلى 15 دقيقة فقط."
+        },
+        {
+          "q": "هل تقدمون اشتراك بطارية سيارة في الصالحية؟",
+          "a": "نعم، نقدم خدمة اشتراك وشحن بطاريات السيارات في حي الصالحية ومخطط الماجد والحمدانية بأسعار رمزية وميسرة."
+        },
+        {
+          "q": "ما هي الماركات المتوفرة لديكم لسيارات تويوتا وهيونداي؟",
+          "a": "نوفر بطاريات هانكوك الكورية، وأميرون الهندية، وأسيديلكو الأمريكية خالية الصيانة بجميع المقاسات."
+        }
+      ],
+      "locationCenter": "حي الحمدانية، جدة / مخطط الصالحية والماجد شمال جدة",
+      "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14835.811562943206!2d39.155!3d21.728!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c17dcd00000001%3A0x6b8ddce90b9b37bd!2sAl%20Hamdaniya%2C%20Jeddah%20Saudi%20Arabia!5e0!3m2!1sen!2sae!4v1700000000002",
+      "schemaType": "LocalBusiness",
+      "lat": 21.7289,
+      "lng": 39.1556
+    },
+    "districts-center-jeddah": {
+      "titleAr": "بنشر وسط جدة - أسرع خدمة توصيل وتركيب بطاريات متنقل",
+      "titleEn": "Mobile Battery Central Jeddah | 24/7 Roadside Help",
+      "metaTitle": "بنشر متنقل وسط جدة | فحص وتغيير بطاريات السيارات 0560407321",
+      "metaDesc": "أسرع بنشر متنقل في وسط جدة (حي الرويس، الشرفية، والبلد) لتوصيل وتغيير بطاريات السيارات عند البيوت 24 ساعة. تركيب مجاني برمجة وضمان معتمد.",
+      "h1": "بنشر متنقل وسط جدة لتبديل وتوصيل بطاريات السيارات أمام المنزل",
+      "h2": "تغطية شاملة لخدمات بطاريات السيارات في أحياء وسط جدة والبلد 24 ساعة",
+      "introAr": "تعد أحياء وسط جدة التاريخية والبلد ومراكز الأعمال المحيطة بها ذات كثافة مرورية عالية وحركة تجارية متواصلة. نحن في بطارية إكسبريس نوفر خدمة بنشر متنقل وسط جدة لتغطية كافة بلديات حي الرويس وحي الشرفية وحي البلد وحي مشرفة على مدار الساعة بإنقاذ فوري وخدمة تبديل البطاريات في أقل من 20 دقيقة.",
+      "introEn": "Get fast professional roadside battery replacement in central Jeddah, Al-Balad, and Al-Ruwais. We deliver and code batteries 24/7.",
+      "storyAr": "نحن فخر الخدمات الميدانية لبطاريات السيارات في وسط جدة. لا تفقد برمجتك الإلكترونية؛ نعتمد على أحدث أجهزة الـ OBD لتغذية الذاكرة وحفظ برمجة كمبيوتر السيارة أثناء عملية تركيب بطاريتك المفضلة بضمان سنة كاملة أو سنتين.",
+      "bullets": [
+        "توصيل وتركيب مجاني في البلد، الرويس، الشرفية ومشرفة خلال 15 دقيقة.",
+        "فحص كمبيوتر مجاني واكتشاف تهريب طاقة الدينامو بنظام تشخيص دقيق.",
+        "ضمان معتمد رسمي من الوكيل يسري مفعوله في كافة فروع المملكة العربية السعودية.",
+        "خدمة عملاء فائقة السرعة واستعداد تام في شتى الطرق السريعة والمواقف المزدحمة."
+      ],
+      "features": [
+        {
+          "title": "سرعة وصول استثنائية",
+          "desc": "ورش متنقلة ودوريات متأهبة متمركزة على مقربة من طريق الأندلس والملك عبدالله.",
+          "icon": "Clock"
+        },
+        {
+          "title": "حفظ البرمجة والذاكرة",
+          "desc": "تركيب آمن بالكامل بنظام OBD Backup لمنع حدوث أي تعليق أو تصفير للدوائر الذكية.",
+          "icon": "Wrench"
+        },
+        {
+          "title": "خيارات بطاريات متنوعة",
+          "desc": "Varta الألمانية، Hankook الكورية، ACDelco الفاخرة بجميع المقاسات.",
+          "icon": "ShieldCheck"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "ما هي أحياء وسط جدة التي يغطيها البنشر المتنقل؟",
+          "a": "نحن نغطي: حي الرويس، حي الشرفية، حي البلد، حي مشرفة، حي الكندرة وحي البغدادية بفرق صيانة متواجدة على مدار 24 ساعة."
+        },
+        {
+          "q": "هل خدمة شحن البطارية وتوصيلها عند البيت متوفرة؟",
+          "a": "نعم، نقوم بتوصيل البطارية وتغيير فوري عند البيت مع فحص للدينامو والكهرباء مجاناً."
+        },
+        {
+          "q": "ما هي البطاريات الأنسب للسيارات الكورية واليابانية؟",
+          "a": "نوصي ببطاريات هانكوك الكورية، سولايت، أو ايسي ديلكو المعتمدة والتي نوفرها بضمان رسمي مميز."
+        }
+      ],
+      "locationCenter": "وسط جدة والبلد / حي الرويس، الشرفية، والبلد",
+      "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118831.13783471017!2d39.1111!3d21.5433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c3d01fb1137e59%3A0xee6759d2d7c112e2!2sJeddah%20Saudi%20Arabia!5e0!3m2!1sen!2sae!4v1700000000000",
+      "schemaType": "LocalBusiness",
+      "lat": 21.5433,
+      "lng": 39.1728
+    },
+    "districts-south-jeddah": {
+      "titleAr": "بنشر جنوب جدة - أسرع خدمة توصيل وتركيب بطاريات متنقل",
+      "titleEn": "Mobile Battery South Jeddah | 24/7 Roadside Help",
+      "metaTitle": "بنشر متنقل جنوب جدة | فحص وتغيير بطاريات السيارات 0560407321",
+      "metaDesc": "أسرع بنشر متنقل بجنوب جدة (حي الوزيرية، حي غليل، حي المحجر، حي السنابل، وحي الأمير فواز) لخدمات فحص وتغيير بطاريات السيارات عند البيوت والطرق 24 ساعة.",
+      "h1": "أسرع بنشر متنقل جنوب جدة لتوصيل وتركيب بطاريات السيارات فورا",
+      "h2": "لماذا تميزنا في تقديم خدمات بنشر وبطاريات السيارات جنوب جدة؟",
+      "introAr": "تمتاز مناطق جنوب جدة وأحيائها السكنية والصناعية بكونها تمثل العصب اللوجستي والحركة الصناعية لمدينة جدة. نحن في خدمة بنشر جنوب جدة من بطارية إكسبريس متخصصون حصرياً في تركيب وتغيير وتوصيل بطاريات السيارات، ونغطي أحياء الوزيرية، غليل، المحجر، السنابل، حي الأمير فواز، والأجاويد على مدار الساعة بورش متنقلة ودعم فني متميز.",
+      "introEn": "Fast responsive mobile battery and diagnostic workshop covering Al-Waziriyah, Ghulail, Al-Mahjar, and Al-Sanabel in South Jeddah.",
+      "storyAr": "نقدم صيانة احترافية وفحصاً على أيدي أفضل الفنيين لضمان استمرارية حركة سيارتك بدون أي تعطل. نصلكم خلال 20 دقيقة محملين بكافة ماركات البطاريات العالمية وبأنسب الأسعار مع البرمجة الإلكترونية للأنظمة مجاناً.",
+      "bullets": [
+        "دعم طوارئ متنقل بأرقى الأجهزة الحديثة متواجد في كافة مناطق جنوب جدة 24 ساعة.",
+        "fحص دقيق لكفاءة الدينامو والكهرباء والتهريب الأرضي قبل تركيب البطارية كلياً.",
+        "توفير تشكيلة هائلة وموثوقة من شتى أنواع البطاريات اليابانية والكورية والأوروبية.",
+        "فريق فني متخصص ذو خبرة عالية في الأنظمة الكهربائية لجميع موديلات المركبات."
+      ],
+      "features": [
+        {
+          "title": "جنوب جدة بالكامل",
+          "desc": "نصلكم فوراً في غليل، السنابل، المحجر، الوزيرية، الأجاويد والمنطقة الصناعية.",
+          "icon": "MapPin"
+        },
+        {
+          "title": "سرعة استجابة مذهلة",
+          "desc": "أقرب فني طوارئ يتحرك للموقع وينهي عملية التركيب والبرمجة بدقة ممتازة.",
+          "icon": "Clock"
+        },
+        {
+          "title": "ضمان رسمي معتمد",
+          "desc": "جميع بطارياتنا أصلية وتتمتع بكامل الضمان الرسمي من الوكلاء في السعودية.",
+          "icon": "ShieldCheck"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "ما هي ساعات عمل بنشر جنوب جدة المتنقل للبطاريات؟",
+          "a": "نحن نعمل على مدار 24 ساعة طوال أيام الأسبوع لخدمتكم وإصلاح أعطال البطاريات المفاجئة."
+        },
+        {
+          "q": "هل تقدمون خدمات بنشر للإطارات في جنوب جدة؟",
+          "a": "خدماتنا تتركز بالكامل وبشكل احترافي على توصيل، تبديل، برمجة، وشحن بطاريات السيارات فقط."
+        },
+        {
+          "q": "هل الضمان يسري على البطاريات المستبدلة في جنوب جدة؟",
+          "a": "نعم، تحصل على كرت ضمان معتمد وفاتورة إلكترونية موثقة تسري في كافة مدن ومناطق المملكة."
+        }
+      ],
+      "locationCenter": "جنوب جدة / حي الوزيرية، غليل، المحجر، والسنابل",
+      "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118831.13783471017!2d39.1111!3d21.5433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c54d7ebd848b89%3A0xad5fcadc8bf8ea04!2sAl-Waziriyah%2C%20Jeddah%20Saudi%20Arabia!5e0!3m2!1sen!2sae!4v1700000000000",
+      "schemaType": "LocalBusiness",
+      "lat": 21.4167,
+      "lng": 39.2333
+    },
+    "districts-makkah": {
+      "titleAr": "بطاريات مكة المكرمة - محل بطاريات متنقل 24 ساعة مكة",
+      "titleEn": "Car Batteries Makkah | 24/7 Mobile Service",
+      "metaTitle": "بطاريات مكة | توصيل وتركيب بطارية السيارة عند البيت 0560407321",
+      "metaDesc": "أسرع خدمة توصيل وتغيير بطاريات السيارات في مكة المكرمة عند البيت وعلى الطرق 24 ساعة. نقوم بفحص وبرمجة كمبيوتر مجانية لكافة السيارات بضمان رسمي معتمد.",
+      "h1": "أسرع محل بطاريات سيارات في مكة المكرمة - توصيل وتركيب عند البيت 24 ساعة",
+      "h2": "لماذا تختار بطارية إكسبريس لتبديل وتغيير بطاريتك بمكة المكرمة؟",
+      "introAr": "إذا تعطلت بطارية سيارتك في مكة المكرمة، فنحن في بطارية إكسبريس نقدم لك خدمة الفزعة الفورية لتوصيل وتركيب بطاريات السيارات أمام المنزل أو في مواقف الحرم الشريف بجدول زمني لا يتعدى 25 دقيقة. طواقمنا المتنقلة مزودة بأرقى الماركات الأصلية لإعادتك إلى الطريق بأمان وسلامة تامة.",
+      "introEn": "On-call dynamic car battery replacement in Makkah is now seamless and available at your doorstep 24/7.",
+      "storyAr": "نحمل لكم في مكة المكرمة والنسق الجغرافي المحيط بها كافة أحجام وماركات البطاريات (مثل فارتّا الألمانية وهانكوك الكورية وإيه سي ديلكو الأمريكية) التي تناسب الأجواء الحارة بمكة وتتحمل ظروف التشغيل العالية والمنحدرات الجبلية.",
+      "bullets": [
+        "توصيل سريع وتركيب مجاني في كافة أحياء مكة المكرمة على مدار الساعة.",
+        "فحص رقمي بأحدث أجهزة التشخيص الديناميكي للتأكد من قدرة شحن الدينامو تامة.",
+        "برمجة مجانية لحفظ إلكترونيات وأنظمة السيارات الفارهة والأوروبية من أي عطل بالذاكرة.",
+        "بطاريات سيارات أصلية معتمدة مع تفعيل الضمان المعتمد من الوكيل."
+      ],
+      "features": [
+        {
+          "title": "تغطية مكة بالكامل",
+          "desc": "نصل لكل بقعة في الشوقية، العزيزية، بطحاء قريش، الشرائع، العوالي والنسيم.",
+          "icon": "MapPin"
+        },
+        {
+          "title": "تحمل حرارة مكة",
+          "desc": "بطاريات مخصصة ومدمارة للعمل في درجات الحرارة المرتفعة بمكة المكرمة.",
+          "icon": "Zap"
+        },
+        {
+          "title": "ضمان رسمي كامل",
+          "desc": "نمنح كرت ضمان وفاتورة معتمدة سارية المفعول لراحتك وأمان عائلتك.",
+          "icon": "ShieldCheck"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "كم يستغرق زمن وصولكم إلي في أحياء مكة المكرمة؟",
+          "a": "تستغرق طواقم الطوارئ الميدانية لدينا بمكة من 20 إلى 30 دقيقة للوصول وتأمين سيارتك."
+        },
+        {
+          "q": "هل خدمة التركيب مجانية عند البيت بمكة؟",
+          "a": "بالتأكيد، خدمة التوصيل والتركيب وفحص برمجيات السيارة مجانية تماماً عند شراء بطاريتك الجديدة."
+        },
+        {
+          "q": "هل توفرون بطاريات سيارات الدفع الرباعي الكبيرة في مكة؟",
+          "a": "نعم، كافة المقاسات من 55 و 70 و 80 وحتى 100 أمبير لسيارات لاندكروزر وتاهو متواجدة بحوزة سيارات الخدمة."
+        }
+      ],
+      "locationCenter": "مكة المكرمة / تغطية شاملة للطرق السريعة ومحيط الحرم والأحياء كافة",
+      "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118831.13783471017!2d39.8262!3d21.4225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c2114dd8145f03%3A0x4a5a549d03c62b9a!2sMakkah%2520Saudi%2520Arabia!5e0!3m2!1sen!2sae!4v1700000000000",
+      "schemaType": "LocalBusiness",
+      "lat": 21.4225,
+      "lng": 39.8262
+    },
+    "districts-east-makkah": {
+      "titleAr": "بنشر شرق مكة - أسرع خدمة توصيل وتركيب بطاريات متنقل",
+      "titleEn": "Mobile Battery East Makkah | 24/7 Roadside Help",
+      "metaTitle": "بنشر متنقل شرق مكة | فحص وتغيير بطاريات السيارات 0560407321",
+      "metaDesc": "خدمة بنشر متنقل وتغيير بطاريات سيارات في شرق مكة (حي الشرائع وحي الراشدية) على مدار الساعة. نصلكم عند البيت والمنزل ونقوم بالبرمجة والتركيب الفوري.",
+      "h1": "أسرع بنشر متنقل شرق مكة لتوصيل وتغيير بطاريات السيارات فوراً",
+      "h2": "تغطية متميزة وسهلة لخدمات كفرات وبطاريات السيارات شرق مكة والشرائع",
+      "introAr": "تمتاز أحياء شرق مكة المكرمة وبالأخص حي الشرائع وحي الراشدية بامتداداتها الواسعة وكثافتها السكنية الممتازة. نحن في بطارية إكسبريس نقوم بتوفير طواقم مخصصة لتلبية اتصالاتكم في شرق مكة بدقة كاملة وسرعة استجابة لا تتعدى 20 دقيقة، مع تقديم أفضل أنواع بطاريات السيارات العالمية المضمونة.",
+      "introEn": "Fast responsive mobile battery and diagnostic workshop covering Al-Shara'i and Al-Rashidiah in East Makkah.",
+      "storyAr": "فريقنا المتنقل في شرق مكة مجهز بأجهزة فحص كهرباء السيارات للكشف عن الأعطال والتهريبات قبل استبدال بطارية سيارتك. تركيب آمن بنظام OBD Backup وحفظ كلي للمبرمجة.",
+      "bullets": [
+        "فزعة سريعة طوال 24 ساعة في الشرائع، الراشدية وكافة مناطق شرق مكة.",
+        "فحص رقمي وعلاجي لكمبيوتر وضغط الطاقة والجهد المتبقي الدينامو.",
+        "تأمين وتوصيل بطاريات أصلية مكفولة بضمان رسمي فعال في كل مدن المملكة.",
+        "فريق فني خبير يخدم شتى فئات السيارات الكورية واليابانية والأوروبية الفاخرة."
+      ],
+      "features": [
+        {
+          "title": "شرق مكة والشرائع",
+          "desc": "خدمة فورية وشاملة لحي الشرائع، الراشدية، وبوابة مكة بجودة ميكانيكية متفوقة.",
+          "icon": "MapPin"
+        },
+        {
+          "title": "إنقاذ فوري وسريع",
+          "desc": "نصلكم أينما كنتم لحل أعطال البطاريات المفاجئة ومساعدتكم بأسرع كفاءة مادية.",
+          "icon": "Clock"
+        },
+        {
+          "title": "ضمان رسمي معتمد",
+          "desc": "نلتزم بمستوى تسعير موحد وعادل للبطاريات مع فواتير رسمية تفصيلية لراحتك.",
+          "icon": "ShieldCheck"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "هل نغطي حي الراشدية وحي الشرائع طوال الـ 24 ساعة في مكة؟",
+          "a": "نعم، طواقمنا اللوجستية متمركزة في شرق مكة لخدمتكم بنظام المناوبات المستمرة على مدار 24 ساعة."
+        },
+        {
+          "q": "ما هي البطاريات المتوفرة لديكم لسيارات السيدان العائلية؟",
+          "a": "نوفر بطاريات هانكوك 70 و 80 أمبير، سولايت الكورية، وأسيديلكو خالية الصيانة الفاخرة."
+        },
+        {
+          "q": "كيف أحصل على خدمة فحص الدينامو والكهرباء مجاناً بمكة؟",
+          "a": "الفحص الرقمي الشامل هو ميزة استثنائية يحصل عليها كل عميل يطلب بطارية جديدة من بطارية إكسبريس."
+        }
+      ],
+      "locationCenter": "مكة المكرمة / حي الشرائع وحي الراشدية (شرق مكة)",
+      "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118831.13783471017!2d39.9542!3d21.4633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c2069b76c8c5c7%3A0xeab4e68e4ef959ef!2sAsh%20Shara'i%2C%20Makkah%20Saudi%20Arabia!5e0!3m2!1sen!2sae!4v1700000000000",
+      "schemaType": "LocalBusiness",
+      "lat": 21.4633,
+      "lng": 39.9542
+    },
+    "districts-center-makkah": {
+      "titleAr": "بنشر وسط مكة - أسرع خدمة توصيل وتركيب بطاريات متنقل",
+      "titleEn": "Mobile Battery Central Makkah | 24/7 Roadside Help",
+      "metaTitle": "بنشر متنقل وسط مكة | فحص وتغيير بطاريات السيارات 0560407321",
+      "metaDesc": "خدمة بنشر متنقل وتغيير بطاريات سيارات في وسط مكة (حي العزيزية وحي العوالي) على مدار الساعة. تركيب وبرمجة بالكمبيوتر مجانية أمام المنزل وخلال 20 دقيقة.",
+      "h1": "أسرع بنشر متنقل وسط مكة لتوصيل وتغيير بطاريات السيارات فوراً",
+      "h2": "تغطية سريعة وشاملة لخدمات بطاريات السيارات وسط مكة والعزيزية والعوالي",
+      "introAr": "تمثل العزيزية والعوالي والمنطقة المركزية المحيطة بالحرم الشريف العصب التجاري والحيوي لمكة المكرمة. نحن في بطارية إكسبريس فخورون بخدمة سكان مكة وزوارها، ونوفر خدمة بنشر وسط مكة المتنقل لتوصيل وتبديل بطاريات السيارات عند البيوت وفي الطرق بكل سرعة ومهنية.",
+      "introEn": "Fast dynamic mobile battery and diagnostic workshop in Central Makkah covering Al-Aziziyah, Awali, and central sectors.",
+      "storyAr": "تتحمل بطاريات سياراتنا في منطقة وسط مكة درجات الحرارة العالية وظروف الزحام المستمرة بفضل انتقائنا لأحدث الموديلات ذات المنشأ الألماني والكوري مع البرمجة OBD الكاملة.",
+      "bullets": [
+        "توصيل فوري مجاني وسرعة استجابة فائقة في العزيزية والعوالي ومحيط الحرم.",
+        "فحص مبرمجة كمبيوتر السيارة وتصفير الأخطاء بعد الاستبدال مباشرة مجاناً.",
+        "توفير كبرى الماركات العالمية المعتمدة مثل هانكوك، أسيديلكو، وفارتا.",
+        "فريق فني مجهز بأحدث الورش والدوائر الكهربائية للتعامل الآمن والسريع."
+      ],
+      "features": [
+        {
+          "title": "وسط مكة بالكامل",
+          "desc": "تغطية شاملة العزيزية، العوالي، الروضة، النسيم وبطحاء قريش على مدار الساعة.",
+          "icon": "MapPin"
+        },
+        {
+          "title": "برمجة وحفظ ذاكرة",
+          "desc": "نستخدم موصلات طاقة احتياطية OBD Backup لحماية أجهزة الراديو والبرامج بالسيارة والتحكم.",
+          "icon": "Wrench"
+        },
+        {
+          "title": "ضمان سنة وسنتين",
+          "desc": "جميع البطاريات أصلية 100% وبضمان معتمد يسري في مناطق المملكة كافة.",
+          "icon": "ShieldCheck"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "ما هي الأحياء الدقيقة التي يغطيها بنشر وسط مكة المكرمة؟",
+          "a": "نحن نغطي العزيزية، العوالي، الروضة، النسيم، الريع، بطحاء قريش، وجبل النور."
+        },
+        {
+          "q": "هل تعمل ورشكم بمكة في أوقات الحج والمواسم؟",
+          "a": "نعم، طواقمنا متواجدة على مدار 24 ساعة طوال أيام السنة وخلال مواسم الحرم والأعياد لتغطية شتى بلديات مكة."
+        },
+        {
+          "q": "هل توفرون بطاريات AGM لسيارات مرسيدس وبي إم دبليو وسط مكة؟",
+          "a": "بالتأكيد، لدينا كافة مقاسات بطاريات AGM و EFB للسيارات الفاخرة ذات ميزة توفير الوقود Start-Stop."
+        }
+      ],
+      "locationCenter": "مكة المكرمة / حي العزيزية وحي العوالي (وسط مكة)",
+      "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118831.13783471017!2d39.8500!3d21.4167!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c21221e54c86bf%3A0xe67b8dcdf7fbe2fc!2sAl%20Aziziyah%2C%20Makkah%20Saudi%20Arabia!5e0!3m2!1sen!2sae!4v1700000000000",
+      "schemaType": "LocalBusiness",
+      "lat": 21.4167,
+      "lng": 39.85
+    },
+    "districts-west-makkah": {
+      "titleAr": "بنشر غرب مكة - أسرع خدمة توصيل وتركيب بطاريات متنقل",
+      "titleEn": "Mobile Battery West Makkah | 24/7 Roadside Help",
+      "metaTitle": "بنشر متنقل غرب مكة | فحص وتغيير بطاريات السيارات 0560407321",
+      "metaDesc": "خدمة بنشر متنقل وتغيير بطاريات السيارات في غرب مكة (حي الشوقية وحي الزايدي وحي الكعكية) على مدار الساعة. نصلكم عند البيت ونجري فحصاً وبرمجة مجانية.",
+      "h1": "أسرع بنشر متنقل غرب مكة لتوصيل وتغيير بطاريات السيارات فوراً",
+      "h2": "تغطية شاملة ومتميزة لخدمات بطاريات السيارات غرب مكة والشوقية والزايدي",
+      "introAr": "تمثل أحياء غرب مكة المكرمة مثل الشوقية، الزايدي، الكعكية، والخالدية حلقة الوصل بمدينة جدة والمدخل الرئيسي الغربي لقاصدي مكة. نحن في بطارية إكسبريس نوفر أفضل خدمات توصيل وتركيب وتعديل بطاريات السيارات أمام البيت وعلى الطرق غرب مكة خلال دقائق وفترات وجيزة للغاية طوال 24 ساعة.",
+      "introEn": "Fast responsive mobile battery and diagnostic workshop covering Al-Showqiah, Al-Zaidi, Al-Kakiah and Al-Khalidiah in West Makkah.",
+      "storyAr": "نقوم بفحص مستويات الأمبير وعمر خلايا البطارية بجدية تامة لمطابقة الأنظمة وموازنة الجهد. نصلكم بأقصى سرعة لنتيح لسيارتك تشغيل قوي في المنحدرات وطرق الزايدي المرتفعة.",
+      "bullets": [
+        "فزعة وتوصيل بطاريات 24 ساعة في الشوقية، الزايدي، الكعكية وغرب مكة.",
+        "فحص رقمي مجاني للدينامو وقراءة فولتية الدائرة الإلكترونية للسيارات.",
+        "توفير بطاريات أصلية مكفولة بضمان رسمي مميز ساري المفعول بالمملكة.",
+        "فريق فني متخصص مدرب على برمجة وحفظ ذاكرة الحساسات OBD مجاناً."
+      ],
+      "features": [
+        {
+          "title": "غرب مكة بالكامل",
+          "desc": "نغطي الشوقية، الزايدي، الكعكية، الخالدية، النزهة ومحيط طريق أم القرى.",
+          "icon": "MapPin"
+        },
+        {
+          "title": "دعم الطوارئ السريع",
+          "desc": "أقرب فني طاقة وبطاريات متنقل ينطلق لموقعك فورا لإنقاذك في غضون 20 دقيقة.",
+          "icon": "Clock"
+        },
+        {
+          "title": "برمجيات وحلول رقمية",
+          "desc": "تطهير وحماية برمجيات كمبيوتر سيارتك وحفظ الذاكرة لجميع الفئات الأوروبية والآسيوية.",
+          "icon": "Wrench"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "ما هي أحياء غرب مكة التي يغطيها البنشر المتنقل وفريق البطاريات؟",
+          "a": "نحن نغطي: حي الشوقية، حي الزايدي، حي الكعكية، حي الخالدية، وحي النزهة المكي غرب مكة."
+        },
+        {
+          "q": "هل تتوفر لديكم خدمات اشتراك البطارية وشحنها والإنقاذ السريع؟",
+          "a": "نعم، نقدم شحن واشتراك فوري وتوصيل البطاريات الجديدة مع تقديم تشخيص حاسم للأعطال بالكهرباء."
+        },
+        {
+          "q": "كيف أحجز موعداً لتغيير بطاريتي في حي الزايدي؟",
+          "a": "يمكنك الاتصال المباشر برقم الهاتف أو النقر على الرابط لإرسال موقعك على الواتس آب وسنتحرك فوراً لخدمتك."
+        }
+      ],
+      "locationCenter": "مكة المكرمة / حي الشوقية وحي الزايدي (غرب مكة)",
+      "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118831.13783471017!2d39.7833!3d21.3833!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c2132fedbfd3a5%3A0xc34850fa9cba483!2sAsh%20Shoqiyah%2C%20Makkah%20Saudi%20Arabia!5e0!3m2!1sen!2sae!4v1700000000000",
+      "schemaType": "LocalBusiness",
+      "lat": 21.3833,
+      "lng": 39.7833
+    },
+    "districts-naseem": {
+      "titleAr": "بطاريات حي النسيم - خدمات تبديل وتوصيل بطارية السيارة",
+      "titleEn": "Car Batteries Al Naseem Jeddah | Delivery & Coding",
+      "metaTitle": "بطاريات حي النسيم جدة | تغيير بطارية السيارة عند البيت 0560407321",
+      "metaDesc": "أسرع بنشر متنقل لتوصيل وتركيب بطاريات السيارات في حي النسيم بجدة. نصلك خلال 15 دقيقة، فحص مجاني للدينامو والكمبيوتر مع البرمجة وسنتين ضمان.",
+      "h1": "توصيل وتبديل بطاريات السيارات في حي النسيم بجدة - خدمة عند البيت",
+      "h2": "لماذا تختار خدمة بطارية إكسبريس السريعة بحي النسيم بجدة؟",
+      "introAr": "يعد حي النسيم في وسط جدة منطقة قريبة من المؤسسات والجامعات الكبرى، وتوقف سيارتك هناك قد يعطل جدولك اليومي بالكامل. فريق بطارية إكسبريس في حي النسيم يقف على أهبة الاستعداد لتزويدك بفزعة بطارية طارئة وسريعة تنقذ يومك وتحفظ وقتك الثمين.",
+      "introEn": "Fast reliable car battery support in Al-Naseem district near Jeddah major universities. Delivery in 15 minutes max.",
+      "storyAr": "نهتم بتقديم أعلى مستويات العناية والنظافة أثناء عملية فك الكابلات وإعداد القواعد المعدنية الجديدة، مع تنشيط دورة الكهرباء وتشغيل مركبتك باطمئنان وأمان تام وضمان متكامل معتمد في السعودية.",
+      "bullets": [
+        "دوران مكثف وسريع للشاحنات قرب محطة قطار الحرمين ومخطط النسيم وجوار الجامعة.",
+        "أدوات فحص متقدمة تقيس أداء ضفيرة الدينامو ومقاومة التوصيلات للتأكد من سلامة كبل الأقطاب.",
+        "بطاريات أصلية مكفولة بضمان الوكيل تمنحك عمراً افتراضياً طويلاً وقيادة هادئة ومريحة.",
+        "فريق فني خلوق يتميز بالأمانة والمهارة المطلقة في التعامل مع جميع طرازات السيارات الفاخرة."
+      ],
+      "features": [
+        {
+          "title": "قريب من معالم النسيم",
+          "desc": "وصول سريع قرب مجمع الأندلس مول، قطار الحرمين الفائق، وكل زوايا النسيم بجدة.",
+          "icon": "MapPin"
+        },
+        {
+          "title": "ضمان راحة البال",
+          "desc": "نمنح كرت ضمان ممتد بختم بطارية إكسبريس الرسمي الذي يغطي جميع مدن ومناطق المملكة.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "تركيب متطور بالكمبيوتر",
+          "desc": "برمجة الحساسات التمكينية وتجنب مسح كود ضبط الراديو وإلكترونيات الأبواب.",
+          "icon": "Zap"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "ما هي سرعة الوصول إلى موقعي في حي النسيم بجدة؟",
+          "a": "يخدم حي النسيم فريق طوارئ دائم ومستقر، مما يمكننا من الوصول إلى موقعك في زمن قياسي يتراوح بين 10 إلى 15 دقيقة فقط من لحظة إرسال اللوكيشن."
+        },
+        {
+          "q": "المكيف لدي يظهر مشاكل في ضبط الهوايات بعد فصل البطارية، هل هذا طبيعي؟",
+          "a": "في بعض المركبات يؤدي فصل البطارية العشوائي إلى مسح إعدادات كمبيوتر التكييف. كادرنا يتفادى ذلك عبر استخدام موصل طاقة احتياطي يمنع فقد الكمبيوتر لذاكرته أثناء التغيير."
+        },
+        {
+          "q": "هل توفرون خدمة شحن واشتراك البطاريات بحي النسيم؟",
+          "a": "نعم، نقدم خدمة اشتراك وشحن البطاريات وتأكيد سلامة الدينامو للفحص والمساعدة العاجلة بتكلفة منافسة وميسرة جداً."
+        }
+      ],
+      "locationCenter": "حي النسيم، جدة / قرب قطار الحرمين ومعالم الجامعة",
+      "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14848.401562943206!2d39.219!3d21.5121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c3d18ba0000001%3A0x6b8ddce90b9b37bd!2sAl%20Naseem%2C%20Jeddah%20Saudi%20Arabia!5e0!3m2!1sen!2sae!4v1700000000003",
+      "schemaType": "LocalBusiness",
+      "lat": 21.5115,
+      "lng": 39.2224
+    },
+    "districts-obhur": {
+      "titleAr": "بطاريات أبحر - أسرع توصيل وتركيب بطاريات متنقل",
+      "titleEn": "Car Batteries Obhur Jeddah | Coast Mobile Services",
+      "metaTitle": "بطاريات أبحر الشمالية والجنوبية جدة | توصيل وتغيير فوري 0560407321",
+      "metaDesc": "خدمة تغيير بطاريات السيارات في أبحر بجدة (الجنوبية والشمالية). استجابة سريعة جداً للمتنزهات والقصور والبيوت خلال 20 دقيقة مع تركيب فني عالي الجودة وصيانة شاملة.",
+      "h1": "تغيير وتبديل بطاريات سيارات في أبحر (الشمالية والجنوبية) بجدة 24 ساعة",
+      "h2": "لماذا نعد الاختيار الموثوق دائماً لصيانة وبنشر بطاريات أبحر بجدة؟",
+      "introAr": "تمتاز منطقة أبحر بجدة (أبحر الشمالية وأبحر الجنوبية وخليج سلمان) بمسافاتها المتسعة وطرقها البحرية السريعة والفسيحة. خدمة بطارية إكسبريس في أبحر مجهزة بسطول سريعة قادرة على تغطية كافة الشواطئ والمشاريع ومجمعات الإسكان بأعلى درجات الكفاءة الفنية والسرعة.",
+      "introEn": "On-call mobile car batteries in Obhur Noord & Obhur South, Jeddah. Fully equipped cruisers matching the coast road network.",
+      "storyAr": "سواء كنت في نزهة عائلية على الشاطئ أو أمام مكتبك أو قصرك في أبحر وتعطلت سيارتك فجأة، ففريق طوارئ بطارية إكسبريس جاهز لإنقاذك وشحن أو تبديل بطارية سيارتك بالكامل بأحدث الأجهزة وفنيين مدربين.",
+      "bullets": [
+        "تغطية استثنائية لكافة مناطق أبحر الشمالية، أبحر الجنوبية، شارع الأمير عبدالله الفيصل، وخليج سلمان.",
+        "توفير بطاريات AGM و EFB الفائقة لليخوت والقوارب والسيارات العائلية والرياضية بجدة.",
+        "فحص رقمي لمستوى الكالسيوم ونسبة تآكل الألواح الداخلية للبطارية قبل إقرار تغييرها.",
+        "توصيل مجاني تماماً دون أي رسوم تضاف على سعر البطارية الحقيقي الوكالة."
+      ],
+      "features": [
+        {
+          "title": "أبحر الشمالية والجنوبية",
+          "desc": "دعم مخصص لكافة الفلل، القرى السكنية وشواطئ الاستحواذ بالمرجان وخليج أبحر.",
+          "icon": "MapPin"
+        },
+        {
+          "title": "بطاريات بحرية متوفرة",
+          "desc": "تأمين بطاريات المقاومة العميقة للألعاب المائية، اليخوت، الجيت سكي وسيارات الدفع الرباعي الكبيرة.",
+          "icon": "Zap"
+        },
+        {
+          "title": "ضمان حقيقي 100%",
+          "desc": "نوثق ضمان البطارية بفواتير رسمية مسجلة ومعترف بها لدى جميع فروع ووكلاء السعودية.",
+          "icon": "ShieldCheck"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "هل تغطون منطقة خليج سلمان ومشاريع أبحر الجديدة؟",
+          "a": "نعم بالكامل. نفحر بامتلاكنا شاحنات فنية متطورة تغطي شواطئ خليج سلمان والمخططات البعيدة في أبحر الشمالية بنفس الكفاءة وقدرة الوصول السريعة وبأسعار عادلة."
+        },
+        {
+          "q": "ما هي المقاسات المناسبة لبطاريات الجيب والجمس واللاندكروزر بأبحر؟",
+          "a": "لدينا كافة السعات والقياسات المناسبة متوفرة بشاحناتنا (سعات 80، 90، 100 أمبير) المناسبة للرحلات البرية الطويلة وظروف الحر الرطب بأبحر."
+        },
+        {
+          "q": "هل يتوفر للبطاريات لديكم شهادات جودة ومطابقة للمواصفات السعودية (SASO)؟",
+          "a": "نعم، جميع بطارياتنا مطابقة لمعايير الهيئة السعودية للمواصفات والمقاييس والجودة (SASO)، مستوردة بشكل قانوني وبرعاية الوكيل الرسمي مباشرة."
+        }
+      ],
+      "locationCenter": "أبحر، جدة / تغطية ممتازة للواجهة البحرية والقصور والمشاريع الساحلية",
+      "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14835.811562943206!2d39.111!3d21.714!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c179da00000001%3A0x6b8ddce90b9b37bd!2sObhur%2C%20Jeddah%20Saudi%20Arabia!5e0!3m2!1sen!2sae!4v1700000000004",
+      "schemaType": "LocalBusiness",
+      "lat": 21.7126,
+      "lng": 39.1023
+    },
+    "districts-north-jeddah": {
+      "titleAr": "بنشر شمال جدة - أسرع service توصيل وتركيب بطاريات متنقل",
+      "titleEn": "Mobile Battery North Jeddah | 24/7 Roadside Help",
+      "metaTitle": "بنشر متنقل شمال جدة | فحص وتغيير بطاريات السيارات 0560407321",
+      "metaDesc": "أسرع بنشر متنقل بشمال جدة لخدمات فحص وتغيير بطاريات السيارات عند البيوت والطرق. تغيير بطاريات، اشتراك طاقة، وبرمجة كمبيوتر 24/7 خلال 15 دقيقة فقط.",
+      "h1": "أسرع بنشر متنقل شمال جدة لتوصيل وتركيب بطاريات السيارات فورا",
+      "h2": "لماذا تميزنا في تقديم خدمات بنشر وبطاريات السيارات شمال جدة؟",
+      "introAr": "تمتاز مناطق شمال جدة وتوسعاتها العمرانية بكونها تحتاج إلى دعم لوجستي ذكي وسريع لحل أعطال البطاريات المفاجئة لسيارات الركاب والشاحنات. نحن في خدمة بنشر شمال جدة من بطارية إكسبريس متخصصون حصرياً في بطاريات السيارات وتوصيلها وبرمجتها، ونغطي النعيم، المروة، المرجان، البساتين والحمدانية على مدار الساعة لتأمين سلامتك.",
+      "introEn": "Fast responsive mobile battery registration and diagnostic workshop covering Al-Naeem, Al-Murjan, Al-Basateen, and Al-Marwah in North Jeddah.",
+      "storyAr": "نحن متخصصون وخبراء في بطاريات السيارات ولسنا مركز صيانة كفرات أو إطارات. نوفر أعمال الفحص الفوري وتوصيل وتركيب بطاريات السيارات المعتمدة المضمونة مع برمجة وضمان حقيقي يمنح السائق الراحة والأمان التام.",
+      "bullets": [
+        "دعم طوارئ بشاحنات حديثة ومستعدة طوال 24 ساعة لتوصيل البطاريات إلى أي نقطة بشمال جدة.",
+        "أجهزة كمبيوتر متطورة وبرمجة كاملة لبطارية سيارتك لمنع أي خلل في الأنظمة الذكية.",
+        "فحص فوري دقيق لأداء الدينامو ومستوى تهريب الكهرباء الأرضي قبل تركيب البطارية الجديدة.",
+        "توفير بطاريات سيارات أصلية مكفولة من كبرى الشركات العالمية مثل هانكوك، فارتّا، وأسيديلكو."
+      ],
+      "features": [
+        {
+          "title": "منطقة شمال جدة بالكامل",
+          "desc": "تغطية شاملة لحي المرجان والبساتين والنعيم والزهراء والروضة والحمدانية والسامر.",
+          "icon": "MapPin"
+        },
+        {
+          "title": "برمجة أجهزة مجانًا",
+          "desc": "نبرمج كمبيوتر ونصفّر أكواد الأخطاء للسيارات الفاخرة بعد تغيير البطارية بالكامل.",
+          "icon": "Wrench"
+        },
+        {
+          "title": "بطاريات أصلية مضمونة",
+          "desc": "تأمين وتوصيل بطاريات ممتازة حسب طراز سيارتك وبأقل تكلفة مادية بكامل الضمان.",
+          "icon": "ShieldCheck"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "ما هي الأحياء الدقيقة التي يغطيها بنشر شمال جدة المتنقل لبث البطاريات؟",
+          "a": "نحن نغطي كافة بلديات شمال جده ومنها: النعيم، النهضة، الشاطئ، المحمدية، الحمراء الشمالية، حي المرجان، المروة، الحمدانية، وأبحر."
+        },
+        {
+          "q": "هل تقدمون خدمات اشتراك وشحن البطاريات وتوصيلها للمنازل؟",
+          "a": "بالتأكيد. نعمل كفريق دعم فوري لتوصيل البطاريات وشحنها وتغييرها عند البيت مع الحفاظ على ذاكرة وإلكترونيات السيارات الفارهة بالكامل."
+        },
+        {
+          "q": "هل توفرون بطاريات سيارات كذلك بشمال جدة؟",
+          "a": "نعم، نحن متخصصون بشكل كامل في توصيل وتركيب وتغيير بطاريات السيارات أمام المنزل وعلى الطرق، ولا نوفر صيانة أو تغيير للإطارات والكفرات."
+        }
+      ],
+      "locationCenter": "شمال جدة / ورشنا وطواقمنا موزعة في المرجان والنعيم والبساتين والحمدانية",
+      "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118831.13783471017!2d39.1111!3d21.5433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c3d01fb1137e59%3A0xee6759d2d7c112e2!2sJeddah%20Saudi%20Arabia!5e0!3m2!1sen!2sae!4v1700000000005",
+      "schemaType": "EmergencyService",
+      "lat": 21.5947,
+      "lng": 39.1238
+    },
+    "districts-east-jeddah": {
+      "titleAr": "بنشر شرق جدة - خدمة إصلاح وبنشر كفرات متنقل 24 ساعة",
+      "titleEn": "Mobile Puncture East Jeddah | 24/7 Road Rescue",
+      "metaTitle": "بنشر متنقل شرق جدة | إصلاح كفرات وتوصيل بطاريات بالشرق 0560407321",
+      "metaDesc": "خدمة بنشر متنقل وتغيير بطاريات في شرق جدة. نخدم أحياء السامر، التوفيق، الأجواد، والرحاب على مدار الساعة. سرعة في تلبية طلبات فزعة الكفرات والإنقاذ.",
+      "h1": "أسرع بنشر متنقل شرق جدة لإصلاح وتغيير الكفرات وشحن البطاريات",
+      "h2": "لماذا تختار خدمة بنشر شرق جدة بالمركبات اللوجستية المتطورة؟",
+      "introAr": "تمثل أحياء شرق جدة (مثل السامر، الأجواد، المنار، التوفيق، والرحاب) كثافة سكانية وحركة مرور ممتدة على طول طريق الحرمين، حيث تكثر أعطال الإطارات والبطاريات بشكل يومي مفاجئ. نحن متواجدون في قلب شرق جدة لتقديم الدعم الفوري وتوفير فزعة سريعة تخلصك من عطلات الطرق.",
+      "introEn": "Fast on-road tire repair and active battery jumpstart workshop in East Jeddah districts such as Al-Samer, Al-Manar, and Al-Rehab.",
+      "storyAr": "نوفر لعملائنا خدمات بنشر متنقل متقدمة متضمنة تبديل الإطارات المتضررة، شحن واشتراك البطاريات، وتوفير بطاريات جديدة مضمونة ومكفولة للتركيب المباشر أمام منزلك أو في الطرق بكل سرعة ومهنية.",
+      "bullets": [
+        "حضور فوري في أحياء السامر، الرحاب، الأجواد، المنار، الياسمين والواحة بجدة.",
+        "فنيون مجهزون بأفضل المعدات الميكانيكية للتعامل مع كفرات الدفع الرباعي وسيارات العمالة والمسافرين.",
+        "فحص رقمي وعلاجي لكمبيوتر وضغط الإطارات للتأكد من الموازنة التامة لكفرات سيارتك.",
+        "خدمة 24 ساعة، طوال أيام الأسبوع بمستوى عالٍ من الأمان والسرعة والنزاهة المميزة."
+      ],
+      "features": [
+        {
+          "title": "أحياء شرق جدة",
+          "desc": "نهتم بخدمة أحياء شرق جدة وتوفير زمن وصول سريع جداً بأعلى المعايير دون أي عناء أو انتظار صلب.",
+          "icon": "MapPin"
+        },
+        {
+          "title": "ضمان حاسم شامل",
+          "desc": "رقع وتغييرات مكفولة تضمن سلامتك وراحة عائلتك ومركبتك على شتى كباري وطرق جدة.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "توصيل بطاريات طوارئ",
+          "desc": "نحمل في شاحناتنا توليفة بطاريات مكفولة أصلية لتوفير خدمة الطوارئ بالسرير أو الطرق المعتمة.",
+          "icon": "Zap"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "كم دقيقة يستغرق وصول بنشر شرق جدة إلي في حي السامر؟",
+          "a": "حي السامر يعد من المراكز الأساسية لشاحنات الطوارئ التابعة لنا، لذا فنحن نصلك في الغالب خلال مدة تتراوح بين 12 إلى 18 دقيقة على الأكثر."
+        },
+        {
+          "q": "هل تقومون بإصلاح ثقوب الكفرات بالمسامير الكبيرة؟",
+          "a": "نعم، فنيونا قادرون على معالجة كافة ثقوب كفرات السيارات وإجراء توازينات سريعة تضمن استعادة الكفر لصلابته وأمانه التشغيلي."
+        },
+        {
+          "q": "كيف أحصل على الفحص المجاني لبطاريتي ودينامو سيارتي بالشرق؟",
+          "a": "التوصيل والفحص الرقمي هو ميزة استثنائية يحصل عليها كل عميل يطلب بطارية جديدة أو يطلب التركيب الميداني فورا."
+        }
+      ],
+      "locationCenter": "شرق جدة / تغطية ممتازة بأحياء السامر والمنار والأجواد وطريق الحرمين",
+      "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118831.13783471017!2d39.1111!3d21.5433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c3d01fb1137e59%3A0xee6759d2d7c112e2!2sJeddah%20Saudi%20Arabia!5e0!3m2!1sen!2sae!4v1700000000006",
+      "schemaType": "EmergencyService",
+      "lat": 21.588,
+      "lng": 39.2154
+    }
+  },
+  "redirects": {
+    "/north-jeddah.html": "/services/districts-north-jeddah",
+    "/north-jeddah-2.html": "/services/districts-north-jeddah",
+    "/north-jeddah": "/services/districts-north-jeddah",
+    "/north-jeddah-2": "/services/districts-north-jeddah",
+    "/east-jeddah.html": "/services/districts-east-jeddah",
+    "/east-jeddah": "/services/districts-east-jeddah",
+    "/center-jeddah.html": "/services/districts-center-jeddah",
+    "/center-jeddah": "/services/districts-center-jeddah",
+    "/south-jeddah.html": "/services/districts-south-jeddah",
+    "/south-jeddah": "/services/districts-south-jeddah",
+    "/makkah.html": "/services/districts-makkah",
+    "/makkah": "/services/districts-makkah",
+    "/east-makkah.html": "/services/districts-east-makkah",
+    "/east-makkah": "/services/districts-east-makkah",
+    "/center-makkah.html": "/services/districts-center-makkah",
+    "/center-makkah": "/services/districts-center-makkah",
+    "/west-makkah.html": "/services/districts-west-makkah",
+    "/west-makkah": "/services/districts-west-makkah",
+    "/naseem.html": "/services/districts-naseem",
+    "/naseem": "/services/districts-naseem",
+    "/obhur.html": "/services/districts-obhur",
+    "/obhur": "/services/districts-obhur",
+    "/alsafa.html": "/services/districts-alsafa",
+    "/alsafa": "/services/districts-alsafa",
+    "/alhamdaniya.html": "/services/districts-alhamdaniya",
+    "/alhamdaniya": "/services/districts-alhamdaniya"
+  }
+}
