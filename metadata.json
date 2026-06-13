@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Baterya Express | بطارية إكسبرس",
+  "description": "Professional car battery service at your location. Sleek, fast, and reliable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
