@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>بطارية إكسبرس | خدمة بطاريات وإنقاذ طرق سريع بجدة ومكة ⚡</title>
+
+  <!-- Google PageSpeed LCP Optimization & Preload -->
+  <link rel="preload" as="image" href="https://i.postimg.cc/sxkFpNSg/output.webp" type="image/webp">
+  <link rel="preload" as="image" href="https://i.ibb.co/yBcGVLpk/1000025014-small.webp" type="image/webp">
+
+  <!-- SEO Multilingual Alternate Tags -->
+  <link rel="alternate" hreflang="ar-sa" href="https://ais-pre-hiyjjvulb76zvrkvtsakon-95532515945.europe-west1.run.app" />
+  <link rel="alternate" hreflang="en-sa" href="https://ais-pre-hiyjjvulb76zvrkvtsakon-95532515945.europe-west1.run.app" />
+
+  <!-- Meta Descriptions for Search Engines -->
+  <meta name="description" content="بطارية إكسبرس في جدة ومكة - خدمة توصيل وتركيب بطاريات السيارات عند البيت 24 ساعة. اتصل بنا الآن للفزعة والدعم الفوري: 0560407321" />
+  <meta name="description" lang="en" content="Battery Express in Jeddah & Makkah - 24/7 Car Battery Delivery & Installation Service. Call us now for immediate support: 0560407321" />
+  <meta name="keywords" content="بطارية إكسبرس جدة ومكة, Battery Express Jeddah Makkah, تغيير بطارية مكة وجدة, بنشري متنقل مكة, اشتراك بطارية مكة, Car Battery Replacement Makkah, Emergency Battery Jeddah, توصيل بطاريات بمكة وجدة" />
+
+  <!-- Schema.org JSON-LD LocalBusiness Data for Google Search ranking -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "بطارية إكسبرس - Battery Express",
+    "telephone": "+966560407321",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Jeddah & Makkah",
+      "addressCountry": "SA"
+    },
+    "description": "توصيل وتركيب بطاريات السيارات في جدة ومكة المكرمة"
+  }
+  </script>
+
+  <!-- Tailwind CSS & Lucide Icons via CDN for production rendering -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/lucide@latest"></script>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;900&family=Outfit:wght@400;600;800&display=swap');
+    
+    body {
+      font-family: 'Cairo', 'Outfit', sans-serif;
+    }
+    
+    .electro-glow {
+      box-shadow: 0 0 15px rgba(250, 204, 21, 0.4);
+    }
+    .text-glow {
+      text-shadow: 0 0 10px rgba(250, 204, 21, 0.3);
+    }
+    .carbon-bg {
+      background-image: radial-gradient(circle at 1px 1px, rgba(255, 255, 255, 0.03) 1px, transparent 0);
+      background-size: 24px 24px;
+    }
+  </style>
+</head>
+<body class="bg-[#030508] text-zinc-100 min-h-screen relative overflow-x-hidden carbon-bg select-none">
+
+  <!-- 1. ANIMATED INTUITIVE SPLASH SCREEN (Auto-closes in ~1.8 Seconds) -->
+  <div id="splash-screen" class="fixed inset-0 bg-[#050505] z-[9999] flex flex-col items-center justify-center transition-opacity duration-500">
+    <div class="relative w-72 h-72 flex items-center justify-center">
+      <img src="https://i.postimg.cc/sxkFpNSg/output.webp" alt="Loading Battery Express" class="w-full h-full object-contain animate-pulse">
+    </div>
+    <p class="text-[#FACC15] font-black text-sm tracking-widest uppercase mt-4 animate-bounce" id="load-text-ar">جاري فتح منصة بطارية إكسبرس الفورية...</p>
+    <p class="text-zinc-500 font-bold text-xs mt-1" id="load-text-en">Initializing Sound & Speed SEO Engine...</p>
+  </div>
+
+  <!-- 2. STICKY PREMIUM HEADER -->
+  <header class="fixed top-0 left-0 right-0 h-20 bg-[#050505]/95 border-b border-zinc-900/80 backdrop-blur-md flex items-center justify-between px-6 sm:px-12 z-50 shadow-[0_4px_30px_rgba(0,0,0,0.85)]">
+    <div class="flex items-center gap-3">
+      <div class="relative w-10 h-10 bg-[#121212] rounded-xl flex items-center justify-center border border-zinc-900 overflow-hidden">
+        <img src="https://i.postimg.cc/sxkFpNSg/output.webp" alt="Logo" class="w-8 h-8 object-contain">
+      </div>
+      <div class="flex flex-col text-right" id="brand-container">
+        <span class="text-lg font-black text-[#FACC15] tracking-tight italic leading-none" id="brand-title">بطارية إكسبرس</span>
+        <span class="text-[8px] text-zinc-400 font-bold uppercase tracking-wider mt-1">BATTERY EXPRESS</span>
+      </div>
+    </div>
+
+    <!-- Multi-Language Switcher Dropdown (Interactive Client-Side Translation) -->
+    <div class="flex items-center gap-4">
+      <div class="relative inline-block text-left">
+        <button onclick="toggleLang()" class="flex items-center gap-2 bg-zinc-950 border border-zinc-850 hover:border-zinc-700 text-xs text-white px-3.5 py-2 rounded-xl transition-all font-bold">
+          <span id="lang-flag">🇺🇸</span>
+          <span id="lang-label">English</span>
+        </button>
+      </div>
+      <div class="hidden md:flex bg-red-650/10 border border-red-500/20 text-red-400 font-black px-4 py-1.5 rounded-xl text-xs sm:text-sm tracking-wide" id="header-slug">
+        🚨 طوارئ بطاريات السيارات: مكة وجدة
+      </div>
+    </div>
+  </header>
+
+  <!-- 3. HERO INTUITION CHAMBER -->
+  <section class="relative pt-32 pb-16 overflow-hidden">
+    <!-- Glowing background elements -->
+    <div class="absolute top-20 left-1/2 -translate-x-1/2 w-[500px] h-[500px] bg-yellow-500/5 rounded-full blur-[120px] pointer-events-none"></div>
+    <div class="absolute top-40 right-10 w-[300px] h-[300px] bg-red-650/5 rounded-full blur-[100px] pointer-events-none"></div>
+
+    <div class="max-w-7xl mx-auto px-6 lg:px-8 relative z-10 w-full flex flex-col items-center text-center">
+      <!-- Live Status Badge -->
+      <div class="flex items-center gap-2 mb-6 bg-yellow-500/10 border border-[#FACC15]/20 px-4.5 py-1.5 rounded-full backdrop-blur-md">
+        <span class="w-2 h-2 rounded-full bg-green-500 animate-ping"></span>
+        <span class="text-xs text-[#FACC15] font-black" id="hero-badge">متاح لخدمتك الآن في مكة وجدة 24 ساعة - أسرع توصيل</span>
+      </div>
+
+      <h1 class="text-4xl sm:text-6xl font-black text-white italic leading-tight filter drop-shadow-md tracking-tight max-w-4xl" id="hero-title">
+        فزعات الطريق السريعة <br/>
+        <span class="text-[#FACC15] not-italic text-glow">وبث توصيل البطاريات لسيارتك</span>
+      </h1>
+
+      <p class="text-zinc-400 text-sm sm:text-base mt-6 max-w-2xl leading-relaxed" id="hero-desc">
+        لا داعي للحيرة أو الوقوف المتعب. طاقم بطارية إكسبرس الاستباقي بجوارك في جميع أحياء جدة ومكة المكرمة لتشخيص، شحن، وتثبيت أفضل أنواع البطاريات بضمانات معتمدة فوراً.
+      </p>
+
+      <!-- Instant Response Buttons -->
+      <div class="flex flex-col sm:flex-row items-center gap-4 mt-8 w-full max-w-md justify-center">
+        <a href="tel:0560407321" id="call-now-btn" class="w-full sm:w-auto py-4 px-8 bg-gradient-to-r from-yellow-400 via-amber-500 to-yellow-600 hover:from-yellow-300 hover:to-yellow-500 text-black text-center font-black rounded-xl text-sm flex items-center justify-center gap-3 transition-all transform hover:scale-102 cursor-pointer shadow-[0_5px_22px_rgba(250,204,21,0.3)]">
+          <i data-lucide="phone-call" class="w-5 h-5 animate-pulse"></i>
+          <span id="btn-call-text">اتصل الآن: 0560407321</span>
+        </a>
+        <a id="btn-whatsapp" href="https://wa.me/966560407321?text=مرحباً بطارية إكسبرس. أود طلب خدمة توصيل وتركيب بطارية سيارة في موقعي الآن." target="_blank" rel="noopener noreferrer" class="w-full sm:w-auto py-4 px-8 bg-zinc-950 hover:bg-zinc-900 border border-zinc-800 hover:border-zinc-700 text-white text-center font-black rounded-xl text-sm flex items-center justify-center gap-3 transition-all transform hover:scale-102 cursor-pointer backdrop-blur-md">
+          <i data-lucide="message-square" class="w-5 h-5 text-green-400"></i>
+          <span id="btn-whatsapp-text">محادثة واتساب الفورية</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- 4. LIVE WEATHER & NEWS TICKER (LOCAL SEO DRY GROUNDING) -->
+  <section class="py-6 bg-[#050505] border-y border-zinc-900/80 relative z-10 overflow-hidden">
+    <div class="max-w-7xl mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-4">
+      <div class="flex items-center gap-3">
+        <div class="w-8 h-8 rounded-full bg-yellow-500/10 flex items-center justify-center text-yellow-500">
+          <i data-lucide="snowflake" class="w-4 h-4"></i>
+        </div>
+        <div class="text-right" id="weather-banner">
+          <p class="text-[10px] text-zinc-500 font-bold uppercase tracking-wider">Makkah & Jeddah Local Traffic & Climate</p>
+          <p class="text-xs text-white font-extrabold" id="weather-status-text">نشرة الطقس الحية بجدة ومكة: الأجواء دافئة ومستقرة ومستشعر طاقة البطاريات يعمل بكفاءة قصوى.</p>
+        </div>
+      </div>
+      <div class="bg-zinc-950 border border-zinc-800 py-2.5 px-4.5 rounded-xl text-xs text-[#FACC15] font-black electro-glow text-right" id="weather-cta">
+        📞 للدعم الفوري وتوصيل البطارية الآن في جدة ومكة، اتصل بنا: <a href="tel:0560407321" class="underline hover:text-white">0560407321</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- 5. ADVANCED VEHICLE AGM & EFB BATTERY CORES (Interactive WebP Included) -->
+  <section class="py-16 relative">
+    <div class="max-w-7xl mx-auto px-6 lg:px-8 relative z-10">
+      <div class="text-center max-w-3xl mx-auto mb-12">
+        <span class="text-[#FACC15] font-black text-xs uppercase tracking-widest block mb-2" id="agm-badge">هندسة طاقة المقاومة الفائقة لسيارات الهايبيرد والـ Start-Stop</span>
+        <h2 class="text-2xl sm:text-4xl font-extrabold text-white" id="agm-title">بطاريات AGM & EFB المتطورة والموثوقة</h2>
+        <p class="text-zinc-400 text-xs sm:text-sm mt-3" id="agm-desc">توفر بطارية إكسبرس مخزونات مأمونة ذات دورات عمرية مطوّلة لتوفير ثبات تيارات هائل عند درجات الحرارة المرتفعة بمكة وجدة.</p>
+      </div>
+
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 items-center bg-zinc-950/60 border border-zinc-900 p-6 sm:p-10 rounded-3xl backdrop-blur-sm">
+        <!-- 3D Layout Adaptive Image -->
+        <div class="relative rounded-2xl overflow-hidden bg-black/50 border border-zinc-850 p-4 aspect-[4/3] flex items-center justify-center">
+          <img 
+            src="https://i.ibb.co/yBcGVLpk/1000025014-small.webp" 
+            alt="AGM EFB Power Tech Battery Express" 
+            class="w-full h-full object-contain filter drop-shadow-[0_0_25px_rgba(250,204,21,0.2)]"
+            referrerpolicy="no-referrer"
+          >
+          <div class="absolute bottom-4 left-4 right-4 bg-black/80 backdrop-blur-md p-3.5 rounded-xl border border-zinc-800 flex justify-between items-center">
+            <span class="text-[10px] text-zinc-400 font-bold font-mono">CORE MODEL: OPTIMA_AGM_SA</span>
+            <span class="text-[10px] text-[#FACC15] font-black uppercase tracking-wider animate-pulse">Ready in Makkah / Jeddah</span>
+          </div>
+        </div>
+
+        <!-- Comprehensive Diagnostic Text & CTA -->
+        <div class="space-y-6 text-right" id="agm-content">
+          <div class="space-y-4">
+            <h3 class="text-xl font-bold text-white flex items-center gap-2 justify-end">
+              <span id="tech-h">مواصفات تكنولوجيا هيرميتيك المختومة</span>
+              <i data-lucide="cpu" class="w-5 h-5 text-[#FACC15]"></i>
+            </h3>
+            <p class="text-zinc-400 text-xs sm:text-sm leading-relaxed" id="tech-p1">
+              تتحمل هذه الخلايا المتطورة أحمال التفريغ العميقة حتى في أقصى طقس صيفي حار في مكة وجدة. تم اختبار كفاءة الأمبير البارد (CCA) وصمامات تنفيس الغاز المنبعث لضمان حماية محرك سيارتك 100%.
+            </p>
+            <p class="text-zinc-400 text-xs sm:text-sm leading-relaxed" id="tech-p2">
+              نقوم بالبرمجة الذكية وبرمجة كمبيوتر السيارة فور التثبيت وتصفير الإعدادات، ليعمل الدينامو بالتوازي التام مع مقاومة البطارية الداخلية ودون أي مجهود مضاعف.
+            </p>
+          </div>
+
+          <!-- Quick Action Checklist -->
+          <div class="grid grid-cols-2 gap-3 text-xs text-zinc-300 font-bold pt-2">
+            <div class="flex items-center gap-2 justify-end" id="chk-1"><span class="text-green-400">⚡</span> ضمان وكيل 18 شهر</div>
+            <div class="flex items-center gap-2 justify-end" id="chk-2"><span class="text-green-400">⚡</span> طاقية أمبير كاملة</div>
+            <div class="flex items-center gap-2 justify-end" id="chk-3"><span class="text-green-400">⚡</span> مبرمجة كمبيوتر للهايبيرد</div>
+            <div class="flex items-center gap-2 justify-end" id="chk-4"><span class="text-green-450">⚡</span> تفعيل مجاني للمولد</div>
+          </div>
+
+          <div class="pt-4 flex justify-end">
+            <a href="tel:0560407321" class="py-3 px-6 bg-[#FACC15] hover:bg-white text-black font-black text-xs rounded-xl flex items-center gap-2 transition-all cursor-pointer shadow-[0_4px_15px_rgba(250,204,21,0.25)]">
+              <i data-lucide="phone" class="w-4 h-4 fill-current"></i>
+              <span id="agm-call-cta">اتصل الآن واحصل عليها في موقعك</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 6. WHY BATTERY EXPRESS IS CHOSEN (THE VALUE PROPOSITIONS) -->
+  <section class="py-16 bg-[#040609] border-t border-zinc-950">
+    <div class="max-w-7xl mx-auto px-6 lg:px-8">
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8 text-right" id="why-grid">
+        <div class="p-6 bg-zinc-950 border border-zinc-900 rounded-2xl flex flex-col justify-start items-end aspect-square justify-center">
+          <div class="w-12 h-12 rounded-xl bg-yellow-500/10 flex items-center justify-center text-[#FACC15] mb-4">
+            <i data-lucide="clock" class="w-6 h-6"></i>
+          </div>
+          <h3 class="text-lg font-bold text-white mb-2" id="why-t1">توصيل خارق السرعة</h3>
+          <p class="text-zinc-500 text-xs leading-relaxed" id="why-d1">بفضل نظام الملاحة والتوجيه الذكي، فنيو بطارية إكسبرس يحيطون بك في جميع حارات ودروب جدة ومكة للتلبية في غضون ربع ساعة فقط.</p>
+        </div>
+
+        <div class="p-6 bg-zinc-950 border border-zinc-900 rounded-2xl flex flex-col justify-start items-end aspect-square justify-center">
+          <div class="w-12 h-12 rounded-xl bg-yellow-500/10 flex items-center justify-center text-[#FACC15] mb-4">
+            <i data-lucide="shield" class="w-6 h-6"></i>
+          </div>
+          <h3 class="text-lg font-bold text-white mb-2" id="why-t2">أصالة وجودة معتمدة</h3>
+          <p class="text-zinc-500 text-xs leading-relaxed" id="why-d2">جميع العلامات التجارية التي نوفرها أصلية 100%، مستوردة بشهادات ضمان ممتدة ومعتمدة من الوكلاء في المملكة العربية السعودية.</p>
+        </div>
+
+        <div class="p-6 bg-zinc-950 border border-zinc-900 rounded-2xl flex flex-col justify-start items-end aspect-square justify-center">
+          <div class="w-12 h-12 rounded-xl bg-yellow-500/10 flex items-center justify-center text-[#FACC15] mb-4">
+            <i data-lucide="tool" class="w-6 h-6"></i>
+          </div>
+          <h3 class="text-lg font-bold text-white mb-2" id="why-t3">فحص فني مجاني متكامل</h3>
+          <p class="text-zinc-500 text-xs leading-relaxed" id="why-d3">لا يقتصر عملنا على استبدال البطارية؛ بل نقوم بفحص سلامة دينامو شحن السيارة، نظام الكرنك، واكتشاف التهريب الأرضي مجاناً.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 7. SECURE TRUST FOOTER -->
+  <footer class="py-12 bg-[#020202] border-t border-zinc-900/60 relative z-10 text-center text-xs">
+    <div class="max-w-7xl mx-auto px-6 flex flex-col sm:flex-row items-center justify-between gap-6" id="footer-row">
+      <div class="flex items-center gap-3">
+        <span class="text-[#FACC15] font-black italic text-sm">بطارية إكسبرس</span>
+        <span class="text-zinc-650">|</span>
+        <span class="text-zinc-500 font-mono text-[9px]">JEDDAH MAKKA ROAD RESCUE NETWORK</span>
+      </div>
+      
+      <p class="text-zinc-500 font-bold text-[10px]" id="footer-copyright">
+        &copy; 2026 بطارية إكسبرس (Battery Express) لخدمات طاقة المركبات بجدة ومكة المكرمة. جميع الحقوق معترف بها ومحفوظة.
+      </p>
+
+      <div class="flex items-center gap-4 text-zinc-600">
+        <a href="tel:0560407321" class="hover:text-yellow-400 font-black">0560407321</a>
+        <span>•</span>
+        <span class="font-mono text-[9px] text-[#FACC15]">ACTIVE GPS RADAR sweeps</span>
+      </div>
+    </div>
+  </footer>
+
+  <!-- CLIENT-SIDE ABSOLUTE TRANSLATION & UTILS ENGINE -->
+  <script>
+    // Initialize Lucide Icons
+    lucide.createIcons();
+
+    // Auto close Splash-screen in 1.8 seconds
+    setTimeout(() => {
+      const splash = document.getElementById('splash-screen');
+      if (splash) {
+        splash.style.opacity = '0';
+        setTimeout(() => splash.remove(), 500);
+      }
+    }, 1800);
+
+    // Dynamic Multi-Language Dictionary Matrix
+    let currentLang = 'ar';
+
+    const translations = {
+      en: {
+        htmlDir: 'ltr',
+        htmlLang: 'en',
+        brandTitle: 'Battery Express',
+        headerSlug: '🚨 EMERGENCY BATTERY RESCUE: MAKKAH & JEDDAH',
+        heroBadge: 'Active & At Your Location in Jeddah & Makkah 24/7 - Fast Delivery',
+        heroTitle: 'Ultra-Fast Roadside Rescue <br/><span class="text-[#FACC15] not-italic text-glow">and Car Battery Dispatch</span>',
+        heroDesc: 'No need to wait or get stranded in the heat. The proactive Battery Express squad is surrounding you across Makkah & Jeddah to diagnose, jumpstart, and install genuine batteries instantly.',
+        btnCallText: 'Call Now: 0560407321',
+        btnWhatsappText: 'Instant WhatsApp Advice',
+        weatherCta: '📞 For immediate support & battery delivery now in Jeddah & Makkah, call us: <a href="tel:0560407321" class="underline hover:text-white">0560407321</a>',
+        weatherStatusText: 'Live Makkah & Jeddah Weather Broadcast: Mild skies, stable temperatures, battery performance health index in optimal zones.',
+        agmBadge: 'HIGH VOLTAGE RESISTANCE VEHICLE CORES: SPECIAL FOR HYBRID & START-STOP CARS',
+        agmTitle: 'Advanced & Durable AGM & EFB Batteries',
+        agmDesc: 'Battery Express maintains a highly-reserves genuine fleet designed for extended cyclic release under local extreme heats.',
+        techH: 'Hermetic Leak-Proof Sealed Specifications',
+        techP1: 'Withstands deep energy demands even during high summer temperatures in Jeddah & Makkah. Real-time CCA indices are calibrated perfectly.',
+        techP2: 'We run on-site smart ECU computer configuration instantly after installation to ensure dynamic battery alternator synchronization.',
+        chk1: '⚡ 18-Mo Warranty',
+        chk2: '⚡ Maximum Amp capacity',
+        chk3: '⚡ ECU Hybrid Configured',
+        chk4: '⚡ Free Alternator Analysis',
+        agmCallCta: 'Call Now & Get On-Site Delivery',
+        whyT1: 'Ultra-Fast Delivery',
+        whyD1: 'Equipped with smart routing algorithms, Battery Express squads reach your street in Makkah & Jeddah in 15 minutes or less.',
+        whyT2: 'Genuine Quality',
+        whyD2: 'All brands are 105% authentic, certified with valid manufacturer warranties from authorized dealers in KSA.',
+        whyT3: 'Free On-Site Diagnostic',
+        whyD3: 'Not only battery swappings; our certified technicians test alternator charging outputs and ground leakages completely free of charge.',
+        footerCopyright: '© 2026 Battery Express (Vehicle Energy & Rescue Services) in Jeddah & Makkah. All rights reserved and verified.'
+      },
+      ar: {
+        htmlDir: 'rtl',
+        htmlLang: 'ar',
+        brandTitle: 'بطارية إكسبرس',
+        headerSlug: '🚨 طوارئ بطاريات السيارات: مكة وجدة',
+        heroBadge: 'متاح لخدمتك الآن في مكة وجدة 24 ساعة - أسرع توصيل',
+        heroTitle: 'فزعات الطريق السريعة <br/><span class="text-[#FACC15] not-italic text-glow">وبث توصيل البطاريات لسيارتك</span>',
+        heroDesc: 'لا داعي للحيرة أو الوقوف المتعب. طاقم بطارية إكسبرس الاستباقي بجوارك في جميع أحياء جدة ومكة المكرمة لتشخيص، شحن، وتثبيت أفضل أنواع البطاريات بضمانات معتمدة فوراً.',
+        btnCallText: 'اتصل الآن: 0560407321',
+        btnWhatsappText: 'محادثة واتساب الفورية',
+        weatherCta: '📞 للدعم الفوري وتوصيل البطارية الآن في جدة ومكة، اتصل بنا: <a href="tel:0560407321" class="underline hover:text-white">0560407321</a>',
+        weatherStatusText: 'نشرة الطقس الحية بجدة ومكة: الأجواء دافئة ومستقرة ومستشعر طاقة البطاريات يعمل بكفاءة قصوى.',
+        agmBadge: 'هندسة طاقة المقاومة الفائقة لسيارات الهايبيرد والـ Start-Stop',
+        agmTitle: 'بطاريات AGM & EFB المتطورة والموثوقة',
+        agmDesc: 'توفر بطارية إكسبرس مخزونات مأمونة ذات دورات عمرية مطوّلة لتوفير ثبات تيارات هائل عند درجات الحرارة المرتفعة بمكة وجدة.',
+        techH: 'مواصفات تكنولوجيا هيرميتيك المختومة',
+        techP1: 'تتحمل هذه الخلايا المتطورة أحمال التفريغ العميقة حتى في أقصى طقس صيفي حار في مكة وجدة. تم اختبار كفاءة الأمبير البارد (CCA) وصمامات تنفيس الغاز المنبعث لضمان حماية محرك سيارتك 100%.',
+        techP2: 'نقوم بالبرمجة الذكية وبرمجة كمبيوتر السيارة فور التثبيت وتصفير الإعدادات، ليعمل الدينامو بالتوازي التام مع مقاومة البطارية الداخلية ودون أي مجهود مضاعف.',
+        chk1: '⚡ ضمان وكيل 18 شهر',
+        chk2: '⚡ طاقية أمبير كاملة',
+        chk3: '⚡ مبرمجة كمبيوتر للهايبيرد',
+        chk4: '⚡ تفعيل مجاني للمولد',
+        agmCallCta: 'اتصل الآن واحصل عليها في موقعك',
+        whyT1: 'توصيل خارق السرعة',
+        whyD1: 'بفضل نظام الملاحة والتوجيه الذكي، فنيو بطارية إكسبرس يحيطون بك في جميع حارات ودروب جدة ومكة للتلبية في غضون ربع ساعة فقط.',
+        whyT2: 'أصالة وجودة معتمدة',
+        whyD2: 'جميع العلامات التجارية التي نوفرها أصلية 100%، مستوردة بشهادات ضمان ممتدة ومعتمدة من الوكلاء في المملكة العربية السعودية.',
+        whyT3: 'فحص فني مجاني متكامل',
+        whyD3: 'لا يقتصر عملنا على استبدال البطارية؛ بل نقوم بفحص سلامة دينامو شحن السيارة، نظام الكرنك، واكتشاف التهريب الأرضي مجاناً.',
+        footerCopyright: '© 2026 بطارية إكسبرس (Battery Express) لخدمات طاقة المركبات بجدة ومكة المكرمة. جميع الحقوق معترف بها ومحفوظة.'
+      }
+    };
+
+    function toggleLang() {
+      currentLang = currentLang === 'ar' ? 'en' : 'ar';
+      
+      const t = translations[currentLang];
+      const html = document.documentElement;
+      const body = document.body;
+
+      // Update structural direction attributes
+      html.setAttribute('dir', t.htmlDir);
+      html.setAttribute('lang', t.htmlLang);
+      
+      // Toggle alignment styles on elements
+      if (currentLang === 'en') {
+        body.classList.remove('text-right');
+        body.classList.add('text-left');
+        document.getElementById('brand-container').classList.replace('text-right', 'text-left');
+        document.getElementById('agm-content').classList.replace('text-right', 'text-left');
+        document.getElementById('tech-h').classList.replace('justify-end', 'justify-start');
+        document.getElementById('why-grid').classList.replace('text-right', 'text-left');
+        document.querySelectorAll('#why-grid > div').forEach(el => el.classList.replace('items-end', 'items-start'));
+        document.querySelectorAll('#agm-content div.grid > div').forEach(el => el.classList.replace('justify-end', 'justify-start'));
+        document.getElementById('footer-row').classList.replace('sm:flex-row', 'sm:flex-row-reverse');
+        document.getElementById('lang-flag').innerText = '🇸🇦';
+        document.getElementById('lang-label').innerText = 'العربية';
+      } else {
+        body.classList.remove('text-left');
+        body.classList.add('text-right');
+        document.getElementById('brand-container').classList.replace('text-left', 'text-right');
+        document.getElementById('agm-content').classList.replace('text-left', 'text-right');
+        document.getElementById('tech-h').classList.replace('justify-start', 'justify-end');
+        document.getElementById('why-grid').classList.replace('text-left', 'text-right');
+        document.querySelectorAll('#why-grid > div').forEach(el => el.classList.replace('items-start', 'items-end'));
+        document.querySelectorAll('#agm-content div.grid > div').forEach(el => el.classList.replace('justify-start', 'justify-end'));
+        document.getElementById('footer-row').classList.replace('sm:flex-row-reverse', 'sm:flex-row');
+        document.getElementById('lang-flag').innerText = '🇺🇸';
+        document.getElementById('lang-label').innerText = 'English';
+      }
+
+      // Populate text nodes dynamically
+      document.getElementById('brand-title').innerHTML = t.brandTitle;
+      document.getElementById('header-slug').innerText = t.headerSlug;
+      document.getElementById('hero-badge').innerText = t.heroBadge;
+      document.getElementById('hero-title').innerHTML = t.heroTitle;
+      document.getElementById('hero-desc').innerText = t.heroDesc;
+      document.getElementById('btn-call-text').innerText = t.btnCallText;
+      document.getElementById('btn-whatsapp-text').innerText = t.btnWhatsappText;
+      document.getElementById('weather-status-text').innerText = t.weatherStatusText;
+      document.getElementById('weather-cta').innerHTML = t.weatherCta;
+      document.getElementById('agm-badge').innerText = t.agmBadge;
+      document.getElementById('agm-title').innerText = t.agmTitle;
+      document.getElementById('agm-desc').innerText = t.agmDesc;
+      document.getElementById('tech-p1').innerText = t.techP1;
+      document.getElementById('tech-p2').innerText = t.techP2;
+      document.getElementById('chk-1').innerHTML = t.chk1;
+      document.getElementById('chk-2').innerHTML = t.chk2;
+      document.getElementById('chk-3').innerHTML = t.chk3;
+      document.getElementById('chk-4').innerHTML = t.chk4;
+      document.getElementById('agm-call-cta').innerText = t.agmCallCta;
+      document.getElementById('why-t1').innerText = t.whyT1;
+      document.getElementById('why-d1').innerText = t.whyD1;
+      document.getElementById('why-t2').innerText = t.whyT2;
+      document.getElementById('why-d2').innerText = t.whyD2;
+      document.getElementById('why-t3').innerText = t.whyT3;
+      document.getElementById('why-d3').innerText = t.whyD3;
+      document.getElementById('footer-copyright').innerText = t.footerCopyright;
+
+      // Dynamically override WhatsApp Message Text on language swap
+      const waLink = document.getElementById('btn-whatsapp');
+      if (currentLang === 'en') {
+        waLink.href = "https://wa.me/966560407321?text=" + encodeURIComponent("Hello Battery Express! I am browsing your roadside diagnostics and require emergency mobile car battery replacement service at my current location.");
+      } else {
+        waLink.href = "https://wa.me/966560407321?text=" + encodeURIComponent("مرحباً بطارية إكسبرس. أود طلب خدمة توصيل وتركيب بطارية سيارة في موقعي الآن.");
+      }
+    }
+  </script>
+</body>
+</html>
